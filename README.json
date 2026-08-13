@@ -1,0 +1,3593 @@
+{
+  "items": [
+    {
+      "description": "The Python module regularly scans repos on Awesome AWS to maintain the accuracy of the .",
+      "items": [],
+      "title": "Python Module"
+    },
+    {
+      "description": "Contributions are welcome!\nReview the Contributing Guidelines.\nAlso check out the Watch List.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "AWS and community SDKs with samples and docs, grouped by language.",
+      "items": [],
+      "title": "SDKs and Samples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-08-03T16:00:31Z",
+            "owner": "aws-amplify",
+            "repo": "aws-sdk-android",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo with Samples :fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-14T18:39:31Z",
+            "owner": "awslabs",
+            "repo": "aws-sdk-android-samples",
+            "stars": 1049
+          }
+        }
+      ],
+      "title": "Android SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-07-22T14:41:02Z",
+            "owner": "mcohen01",
+            "repo": "amazonica",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Install",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-07-22T14:41:02Z",
+            "owner": "mcohen01",
+            "repo": "amazonica",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-07-22T14:41:02Z",
+            "owner": "mcohen01",
+            "repo": "amazonica",
+            "stars": 1002
+          }
+        }
+      ],
+      "title": "Clojure SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-07-31T16:06:20Z",
+            "owner": "aws",
+            "repo": "aws-sdk-go",
+            "stars": 8677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Install",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-07-31T16:06:20Z",
+            "owner": "aws",
+            "repo": "aws-sdk-go",
+            "stars": 8677
+          }
+        }
+      ],
+      "title": "Go SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2026-08-03T16:03:23Z",
+            "owner": "aws-amplify",
+            "repo": "aws-sdk-ios",
+            "stars": 1704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo with Samples :fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2025-09-22T16:20:34Z",
+            "owner": "awslabs",
+            "repo": "aws-sdk-ios-samples",
+            "stars": 1052
+          }
+        }
+      ],
+      "title": "iOS SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo for C :fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-22T00:12:35Z",
+            "owner": "aws",
+            "repo": "aws-iot-device-sdk-embedded-C",
+            "stars": 1057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo for JavaScript :fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-07T18:51:58Z",
+            "owner": "aws",
+            "repo": "aws-iot-device-sdk-js",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo for Arduino Yun :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-22T19:38:48Z",
+            "owner": "aws",
+            "repo": "aws-iot-device-sdk-arduino-yun",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo for Arduino",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2016-07-31T16:19:56Z",
+            "owner": "amazon-archives",
+            "repo": "aws-sdk-arduino",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "IoT SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-06T20:40:47Z",
+            "owner": "aws",
+            "repo": "aws-sdk-java",
+            "stars": 4200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo with Samples :fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-04-06T04:32:19Z",
+            "owner": "aws-samples",
+            "repo": "aws-java-sample",
+            "stars": 242
+          }
+        }
+      ],
+      "title": "Java SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-12-09T19:22:54Z",
+            "owner": "aws",
+            "repo": "aws-sdk-js",
+            "stars": 7604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo with Samples :fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-18T09:32:02Z",
+            "owner": "aws-samples",
+            "repo": "aws-nodejs-sample",
+            "stars": 306
+          }
+        }
+      ],
+      "title": "JavaScript SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-04-22T19:28:32Z",
+            "owner": "pplu",
+            "repo": "aws-sdk-perl",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo with Samples :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-04-22T19:28:32Z",
+            "owner": "pplu",
+            "repo": "aws-sdk-perl",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Install",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-04-22T19:28:32Z",
+            "owner": "pplu",
+            "repo": "aws-sdk-perl",
+            "stars": 174
+          }
+        }
+      ],
+      "title": "Perl SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T18:22:10Z",
+            "owner": "aws",
+            "repo": "aws-sdk-php",
+            "stars": 6198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo with Samples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-03-07T21:35:04Z",
+            "owner": "aws-samples",
+            "repo": "aws-php-sample",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "PHP SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:21:53Z",
+            "owner": "boto",
+            "repo": "boto3",
+            "stars": 9870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Install",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-12T23:46:55Z",
+            "owner": "boto",
+            "repo": "boto",
+            "stars": 6421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn More",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-12T23:46:55Z",
+            "owner": "boto",
+            "repo": "boto",
+            "stars": 6421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo with Samples :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-12-04T03:12:47Z",
+            "owner": "aws-samples",
+            "repo": "aws-python-sample",
+            "stars": 208
+          }
+        }
+      ],
+      "title": "Python SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Samples :fire::fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T09:51:05Z",
+            "owner": "awsdocs",
+            "repo": "aws-doc-sdk-examples",
+            "stars": 10445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T19:30:55Z",
+            "owner": "aws",
+            "repo": "aws-sdk-ruby",
+            "stars": 3657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo with S3 Sample",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-04-20T23:36:24Z",
+            "owner": "aws-samples",
+            "repo": "aws-ruby-sample",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Ruby SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-11T09:58:15Z",
+            "owner": "rusoto",
+            "repo": "rusoto",
+            "stars": 2723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Install",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-11T09:58:15Z",
+            "owner": "rusoto",
+            "repo": "rusoto",
+            "stars": 2723
+          }
+        }
+      ],
+      "title": "Rust SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repo with Samples :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-04-16T17:16:39Z",
+            "owner": "aws-samples",
+            "repo": "aws-sdk-unity-samples",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2016-02-22T23:58:10Z",
+            "owner": "amazon-archives",
+            "repo": "aws-sdk-unity",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "Unity SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Samples :fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-10-27T17:40:12Z",
+            "owner": "awslabs",
+            "repo": "aws-sdk-net-samples",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo :fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:00:15Z",
+            "owner": "aws",
+            "repo": "aws-sdk-net",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo with Samples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-03-31T04:57:40Z",
+            "owner": "aws-samples",
+            "repo": "aws-auto-scaling-console-sample",
+            "stars": 22
+          }
+        }
+      ],
+      "title": ".NET SDK"
+    },
+    {
+      "description": "AWS and community command line tools with samples and docs.",
+      "items": [],
+      "title": "Command Line Tools"
+    },
+    {
+      "description": "Official IDE toolkits with samples and docs.",
+      "items": [],
+      "title": "IDE Toolkits"
+    },
+    {
+      "description": "AWS and community open source projects, grouped by service. See A Note on Repo AWSomeness for more details.",
+      "items": [],
+      "title": "Open Source Repos"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-apigateway-swagger-importer :fire::fire::fire:",
+          "description": "Tools to work with Swagger.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2017-01-04T05:59:49Z",
+            "owner": "amazon-archives",
+            "repo": "aws-apigateway-importer",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "api-gateway-secure-pet-store :fire::fire:",
+          "description": "Cognito credentials through Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2021-04-26T20:31:36Z",
+            "owner": "aws-samples",
+            "repo": "api-gateway-secure-pet-store",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-apigateway-sdk-java",
+          "description": "SDK for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-01-14T23:28:00Z",
+            "owner": "awslabs",
+            "repo": "aws-apigateway-sdk-java",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "API Gateway"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-cli :fire::fire::fire::fire::fire:",
+          "description": "Universal Command Line Interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:14:40Z",
+            "owner": "aws",
+            "repo": "aws-cli",
+            "stars": 17179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-shell :fire::fire::fire::fire::fire:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-16T22:48:37Z",
+            "owner": "awslabs",
+            "repo": "aws-shell",
+            "stars": 7332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-ecs-cli :fire::fire::fire::fire:",
+          "description": "ECS CLI using the same Docker Compose file format and familiar Compose commands.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-11-18T19:00:19Z",
+            "owner": "aws",
+            "repo": "amazon-ecs-cli",
+            "stars": 1806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awscli-aliases :fire::fire:",
+          "description": "Repository for AWS CLI aliases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-17T04:18:03Z",
+            "owner": "awslabs",
+            "repo": "awscli-aliases",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awsmobile-cli :fire:",
+          "description": "CLI experience for Frontend developers in the JavaScript ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-01-30T20:09:30Z",
+            "owner": "amazon-archives",
+            "repo": "awsmobile-cli",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awscli-cookbook",
+          "description": "Installs the CLI tools and provides a set of LWRPs for use within chef cookbooks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-03-27T23:18:20Z",
+            "owner": "amazon-archives",
+            "repo": "awscli-cookbook",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "CLI"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-cdk :fire::fire::fire::fire::fire:",
+          "description": "Framework for defining cloud infrastructure in code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:10:37Z",
+            "owner": "aws",
+            "repo": "aws-cdk",
+            "stars": 12864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cfn-python-lint :fire::fire::fire::fire::fire:",
+          "description": "A tool for linting/validating CloudFormation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:55:23Z",
+            "owner": "aws-cloudformation",
+            "repo": "cfn-lint",
+            "stars": 2638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cfncluster :fire::fire::fire:",
+          "description": "Framework that deploys and maintains HPC clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:47:13Z",
+            "owner": "aws",
+            "repo": "aws-parallelcluster",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cfncluster-cookbook",
+          "description": "Sample Cookbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T15:02:38Z",
+            "owner": "aws",
+            "repo": "aws-parallelcluster-cookbook",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-cfn-custom-resource-examples",
+          "description": "Custom resource examples.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-12-03T11:19:26Z",
+            "owner": "aws-samples",
+            "repo": "aws-cfn-custom-resource-examples",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-cfn-resource-bridge",
+          "description": "Custom resource framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-02-01T20:09:31Z",
+            "owner": "amazon-archives",
+            "repo": "aws-cfn-resource-bridge",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "CloudFormation"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cloudwatch-logs-subscription-consumer :fire::fire:",
+          "description": "Kinesis stream reader.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-03-28T21:43:00Z",
+            "owner": "amazon-archives",
+            "repo": "cloudwatch-logs-subscription-consumer",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecs-cloudwatch-logs",
+          "description": "Assets in the blog post on using Amazon ECS and Amazon CloudWatch logs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2015-05-08T19:22:12Z",
+            "owner": "amazon-archives",
+            "repo": "ecs-cloudwatch-logs",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logstash-output-cloudwatchlogs",
+          "description": "A logstash plugin that sends logs to CloudWatch.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-03-28T21:38:16Z",
+            "owner": "amazon-archives",
+            "repo": "logstash-output-cloudwatchlogs",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-cloudwatch-logs-cookbooks",
+          "description": "OpsWorks sample cookbook.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2018-01-25T18:38:41Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-cloudwatch-logs-cookbooks",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "CloudWatch"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-codedeploy-samples :fire::fire::fire:",
+          "description": "Samples and template scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-09-17T17:47:39Z",
+            "owner": "aws-samples",
+            "repo": "aws-codedeploy-samples",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-codedeploy-agent :fire::fire:",
+          "description": "Sample agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-31T16:05:30Z",
+            "owner": "aws",
+            "repo": "aws-codedeploy-agent",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-codedeploy-plugin :fire:",
+          "description": "Jenkins plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-16T16:32:27Z",
+            "owner": "awslabs",
+            "repo": "aws-codedeploy-plugin",
+            "stars": 155
+          }
+        }
+      ],
+      "title": "Code Deploy"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-codepipeline-s3-aws-codedeploy_linux :fire:",
+          "description": "Simple pipeline for Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-06-06T17:16:50Z",
+            "owner": "aws-samples",
+            "repo": "aws-codepipeline-s3-codedeploy-linux",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-codepipeline-plugin-for-jenkins",
+          "description": "Jenkins plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-11-03T21:17:42Z",
+            "owner": "awslabs",
+            "repo": "aws-codepipeline-plugin-for-jenkins",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-codepipeline-jenkins-aws-codedeploy_linux",
+          "description": "Four-stage pipeline for Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2026-01-14T23:28:10Z",
+            "owner": "awslabs",
+            "repo": "aws-codepipeline-jenkins-aws-codedeploy_linux",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-codepipeline-custom-job-worker",
+          "description": "Develop your own job worker when creating a custom action.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-10-06T03:24:41Z",
+            "owner": "awslabs",
+            "repo": "aws-codepipeline-custom-job-worker",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows",
+          "description": "Four-stage pipeline for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2026-01-14T23:28:14Z",
+            "owner": "awslabs",
+            "repo": "AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWSCodePipeline-S3-AWSCodeDeploy_Windows",
+          "description": "Simple pipeline for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-01-25T18:43:58Z",
+            "owner": "aws-samples",
+            "repo": "AWSCodePipeline-S3-AWSCodeDeploy_Windows",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Code Pipeline"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "amazon-cognito-js :fire::fire:",
+          "description": "Sync SDK for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-07-25T21:56:46Z",
+            "owner": "amazon-archives",
+            "repo": "amazon-cognito-js",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cognito-sample-nodejs :fire:",
+          "description": "Sample App for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2020-01-30T20:19:29Z",
+            "owner": "amazon-archives",
+            "repo": "cognito-sample-nodejs",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-cognito-developer-authentication-sample",
+          "description": "Authentication sample.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-09-23T01:29:13Z",
+            "owner": "aws-samples",
+            "repo": "amazon-cognito-developer-authentication-sample",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-cognito-ios",
+          "description": "Sync SDK for iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2018-03-28T22:39:03Z",
+            "owner": "amazon-archives",
+            "repo": "amazon-cognito-ios",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-cognito-android",
+          "description": "Sync SDK for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-03-28T22:39:46Z",
+            "owner": "amazon-archives",
+            "repo": "amazon-cognito-android",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-cognito-dotnet",
+          "description": "Sync SDK for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-04-10T09:19:33Z",
+            "owner": "aws",
+            "repo": "amazon-cognito-dotnet",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-cognito-streams-sample",
+          "description": "Consuming Streams sample.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-06-15T20:54:05Z",
+            "owner": "amazon-archives",
+            "repo": "amazon-cognito-streams-sample",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Cognito"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-device-farm-sample-app-for-android :fire:",
+          "description": "Sample Android app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-28T11:03:21Z",
+            "owner": "aws-samples",
+            "repo": "aws-device-farm-sample-app-for-android",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-device-farm-appium-tests-for-sample-app",
+          "description": "Appium TestNG Android tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-14T19:37:19Z",
+            "owner": "aws-samples",
+            "repo": "aws-device-farm-appium-tests-for-sample-app",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-device-farm-jenkins-plugin",
+          "description": "Jenkins plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-16T22:56:40Z",
+            "owner": "awslabs",
+            "repo": "aws-device-farm-jenkins-plugin",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-device-farm-gradle-plugin",
+          "description": "Gradle plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-05-20T21:11:43Z",
+            "owner": "awslabs",
+            "repo": "aws-device-farm-gradle-plugin",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-device-farm-calabash-tests-for-sample-app",
+          "description": "Calabash Android tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-09-05T15:28:24Z",
+            "owner": "aws-samples",
+            "repo": "aws-device-farm-calabash-tests-for-sample-app",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Device Farm"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-dynamodb-examples :fire::fire:",
+          "description": "Samples using the Java SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T17:44:28Z",
+            "owner": "aws-samples",
+            "repo": "aws-dynamodb-examples",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-titan-storage-backend :fire::fire:",
+          "description": "Storage Backend for Titan.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-08-30T17:36:09Z",
+            "owner": "amazon-archives",
+            "repo": "dynamodb-janusgraph-storage-backend",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-transactions :fire::fire:",
+          "description": "Performs atomic writes and isolated reads across multiple items and tables.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-03-03T03:28:56Z",
+            "owner": "awslabs",
+            "repo": "dynamodb-transactions",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-cross-region-library :fire::fire:",
+          "description": "Cross-region replication.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-10-26T17:05:32Z",
+            "owner": "awslabs",
+            "repo": "dynamodb-cross-region-library",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-geo :fire::fire:",
+          "description": "Library to create and query geospatial data.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-08-17T15:30:22Z",
+            "owner": "amazon-archives",
+            "repo": "dynamodb-geo",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-dynamodb-encryption-java :fire:",
+          "description": "Encryption Client for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-02T00:01:35Z",
+            "owner": "aws",
+            "repo": "aws-dynamodb-encryption-java",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-streams-kinesis-adapter",
+          "description": "Kinesis interface to consume and process data from a DynamoDB stream.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-03T18:52:56Z",
+            "owner": "awslabs",
+            "repo": "dynamodb-streams-kinesis-adapter",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logstash-input-dynamodb :fire:",
+          "description": "Logstash input plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-12-06T14:28:41Z",
+            "owner": "amazon-archives",
+            "repo": "logstash-input-dynamodb",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-dynamodb-session-tomcat",
+          "description": "Session store for Apache Tomcat.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-02-06T21:45:56Z",
+            "owner": "amazon-archives",
+            "repo": "aws-dynamodb-session-tomcat",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-import-export-tool",
+          "description": "Import and export examples.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-07-30T22:13:07Z",
+            "owner": "amazon-archives",
+            "repo": "dynamodb-import-export-tool",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-sessionstore-dynamodb-ruby",
+          "description": "Handles sessions for Ruby web apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-30T16:22:36Z",
+            "owner": "aws",
+            "repo": "aws-sessionstore-dynamodb-ruby",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-dynamodb-mars-json-demo",
+          "description": "Stores and indexes NASA JPL Mars images.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-12-15T20:39:53Z",
+            "owner": "amazon-archives",
+            "repo": "aws-dynamodb-mars-json-demo",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-tictactoe-example-app",
+          "description": "Lightweight python app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-01-30T20:19:25Z",
+            "owner": "amazon-archives",
+            "repo": "dynamodb-tictactoe-example-app",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-dotnet-session-provider",
+          "description": "A session state provider for ASP.NET apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2025-11-10T16:53:51Z",
+            "owner": "aws",
+            "repo": "aws-dotnet-session-provider",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-dotnet-trace-listener",
+          "description": "A trace listener for System.Diagnostics that can be used to log events.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-07-14T16:50:43Z",
+            "owner": "aws",
+            "repo": "aws-dotnet-trace-listener",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-online-index-violation-detector",
+          "description": "Finds violations on an online GSI's hash key and range key.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-07-16T21:27:42Z",
+            "owner": "amazon-archives",
+            "repo": "dynamodb-online-index-violation-detector",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "DynamoDB"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eb-node-express-sample :fire::fire:",
+          "description": "Sample express app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "EJS",
+            "last_commit": "2026-08-10T18:44:20Z",
+            "owner": "aws-samples",
+            "repo": "eb-node-express-sample",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eb-py-flask-signup :fire::fire:",
+          "description": "Python signup form app with Flask and Bootstrap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-12-24T00:49:32Z",
+            "owner": "aws-samples",
+            "repo": "eb-py-flask-signup",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eb-demo-php-simple-app :fire:",
+          "description": "Simple PHP app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2024-11-06T21:54:41Z",
+            "owner": "aws-samples",
+            "repo": "eb-demo-php-simple-app",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eb-docker-nginx-proxy :fire:",
+          "description": "Simple PHP app using the PHP-FPM and Nginx Docker images.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2015-03-23T18:05:32Z",
+            "owner": "aws-samples",
+            "repo": "eb-docker-nginx-proxy",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eb-node-express-signup",
+          "description": "Express framework and Bootstrap Node.js sample app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-09-21T16:10:53Z",
+            "owner": "aws-samples",
+            "repo": "eb-node-express-signup",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-eb-python-dockerfiles",
+          "description": "Python docker files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-10-02T02:17:49Z",
+            "owner": "aws",
+            "repo": "aws-eb-python-dockerfiles",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eb-docker-multiple-ports",
+          "description": "Simple Node.js and Tomcat apps using Docker images.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-06-17T21:18:27Z",
+            "owner": "aws-samples",
+            "repo": "eb-docker-multiple-ports",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eb-py-flask-signup-worker",
+          "description": "Python app that illustrates worker roles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-10-25T17:48:38Z",
+            "owner": "aws-samples",
+            "repo": "eb-py-flask-signup-worker",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eb-python-flask",
+          "description": "Simple Python and Flask app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2015-07-28T20:21:16Z",
+            "owner": "aws-samples",
+            "repo": "eb-python-flask",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-eb-glassfish-dockerfiles",
+          "description": "GlassFish docker files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2022-02-06T02:18:53Z",
+            "owner": "aws",
+            "repo": "aws-eb-glassfish-dockerfiles",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eb-docker-virtual-hosting",
+          "description": "Simple PHP, Tomcat, and Nginx applications using Docker images.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2015-03-23T18:04:43Z",
+            "owner": "aws-samples",
+            "repo": "eb-docker-virtual-hosting",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eb-wif-sample",
+          "description": "Sample login app with Web Identity Federation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-09-11T20:21:01Z",
+            "owner": "aws-samples",
+            "repo": "eb-wif-sample",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eb-node-express",
+          "description": "Sample app referenced in the Developer Guide.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-09-21T16:10:52Z",
+            "owner": "aws-samples",
+            "repo": "eb-node-express",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Elastic Beanstalk"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "amazon-ecs-agent :fire::fire::fire::fire:",
+          "description": "Agent that runs on and starts containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:05:31Z",
+            "owner": "aws",
+            "repo": "amazon-ecs-agent",
+            "stars": 2174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blox :fire::fire::fire:",
+          "description": "Open source tools for building custom schedulers on ECS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-03-14T21:54:22Z",
+            "owner": "blox",
+            "repo": "blox",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecs-refarch-continuous-deployment :fire::fire::fire:",
+          "description": "Reference Architecture for continuous deployment to ECS using CodePipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-11-22T06:03:59Z",
+            "owner": "awslabs",
+            "repo": "ecs-refarch-continuous-deployment",
+            "stars": 854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecs-blue-green-deployment :fire::fire:",
+          "description": "Blue-green deployment on ECS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-08-18T14:38:42Z",
+            "owner": "aws-samples",
+            "repo": "ecs-blue-green-deployment",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambda-ecs-worker-pattern :fire::fire:",
+          "description": "Extends Lambda using SQS and ECS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "POV-Ray SDL",
+            "last_commit": "2017-08-08T21:20:52Z",
+            "owner": "aws-samples",
+            "repo": "lambda-ecs-worker-pattern",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-ecs-init :fire:",
+          "description": "RPM developed to support the Amazon ECS Container Agent.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-08-31T17:19:21Z",
+            "owner": "aws",
+            "repo": "amazon-ecs-init",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecs-demo-php-simple-app :fire:",
+          "description": "Simple PHP app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-04-18T20:14:17Z",
+            "owner": "aws-samples",
+            "repo": "ecs-demo-php-simple-app",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecs-mesos-scheduler-driver :fire:",
+          "description": "Integrates Apache Mesos.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-01-30T20:10:47Z",
+            "owner": "amazon-archives",
+            "repo": "ecs-mesos-scheduler-driver",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "service-discovery-ecs-consul :fire:",
+          "description": "Assets from the blog Service Discovery via Consul with Amazon ECS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2020-06-25T17:22:09Z",
+            "owner": "amazon-archives",
+            "repo": "service-discovery-ecs-consul",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "py-flask-signup-docker",
+          "description": "Python sample app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-01-11T17:28:23Z",
+            "owner": "aws-samples",
+            "repo": "py-flask-signup-docker",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecs-cloudwatch-logs",
+          "description": "Assets from the blog using Amazon ECS and Amazon CloudWatch logs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2015-05-08T19:22:12Z",
+            "owner": "amazon-archives",
+            "repo": "ecs-cloudwatch-logs",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-ecs-amazon-efs",
+          "description": "Persists Data from containers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-03-09T13:35:07Z",
+            "owner": "awslabs",
+            "repo": "amazon-ecs-amazon-efs",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecs-task-kite",
+          "description": "Simple ambassador container for inter-task communication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-06-26T18:06:07Z",
+            "owner": "awslabs",
+            "repo": "ecs-task-kite",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Elastic Container Service"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "emr-bootstrap-actions :fire::fire::fire:",
+          "description": "Sample bootstrap actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-06-05T22:56:35Z",
+            "owner": "aws-samples",
+            "repo": "emr-bootstrap-actions",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emr-sample-apps",
+          "description": "Sample apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2015-09-08T21:18:30Z",
+            "owner": "amazon-archives",
+            "repo": "emr-sample-apps",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Elastic MapReduce"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "logstash-output-amazon_es :fire::fire:",
+          "description": "Logstash output plugin to sign and export events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-09-15T20:16:48Z",
+            "owner": "awslabs",
+            "repo": "logstash-output-amazon_es",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-elasticsearch-cookbook",
+          "description": "OpsWorks Elasticsearch sample cookbook.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-01-25T18:38:46Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-elasticsearch-cookbook",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Elastic Search"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-elasticache-cluster-client-memcached-for-java",
+          "description": "Client for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-29T16:48:54Z",
+            "owner": "awslabs",
+            "repo": "aws-elasticache-cluster-client-memcached-for-java",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-elasticache-cluster-client-memcached-for-php",
+          "description": "Enhanced PHP library connecting to ElastiCache.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-20T07:12:22Z",
+            "owner": "awslabs",
+            "repo": "aws-elasticache-cluster-client-memcached-for-php",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elasticache-cluster-config-net",
+          "description": "Config object for Enyim's MemcachedClient to enable auto discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-05-17T05:28:15Z",
+            "owner": "awslabs",
+            "repo": "elasticache-cluster-config-net",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-elasticache-cluster-client-libmemcached",
+          "description": "Libmemcached library support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-04T13:26:37Z",
+            "owner": "awslabs",
+            "repo": "aws-elasticache-cluster-client-libmemcached",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Elasticache"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-client :fire::fire::fire:",
+          "description": "Client library for Amazon Kinesis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T20:21:12Z",
+            "owner": "awslabs",
+            "repo": "amazon-kinesis-client",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-producer :fire::fire:",
+          "description": "Producer Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T11:15:18Z",
+            "owner": "awslabs",
+            "repo": "amazon-kinesis-producer",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-client-python :fire::fire:",
+          "description": "Client Library for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T20:15:50Z",
+            "owner": "awslabs",
+            "repo": "amazon-kinesis-client-python",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-scaling-utils :fire::fire:",
+          "description": "Provides the ability to scale streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-05T22:28:19Z",
+            "owner": "awslabs",
+            "repo": "amazon-kinesis-scaling-utils",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-connectors :fire::fire:",
+          "description": "Libary to integrate with other AWS and non-AWS services.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-03-18T19:42:33Z",
+            "owner": "amazon-archives",
+            "repo": "amazon-kinesis-connectors",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-client-nodejs :fire::fire:",
+          "description": "Client Library for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T20:18:55Z",
+            "owner": "awslabs",
+            "repo": "amazon-kinesis-client-nodejs",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-fluent-plugin-kinesis :fire::fire:",
+          "description": "Fluent Plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-16T03:31:16Z",
+            "owner": "awslabs",
+            "repo": "aws-fluent-plugin-kinesis",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-data-visualization-sample :fire:",
+          "description": "Sample data visualization app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-04-09T00:09:07Z",
+            "owner": "amazon-archives",
+            "repo": "amazon-kinesis-data-visualization-sample",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-aggregators :fire:",
+          "description": "Provides a simple way to create real time aggregations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-04-30T08:46:10Z",
+            "owner": "awslabs",
+            "repo": "amazon-kinesis-aggregators",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-client-ruby :fire:",
+          "description": "Client Library for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-02T20:31:09Z",
+            "owner": "awslabs",
+            "repo": "amazon-kinesis-client-ruby",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-learning",
+          "description": "Learning Kinesis Development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-08T20:37:27Z",
+            "owner": "aws-samples",
+            "repo": "amazon-kinesis-learning",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kinesis-storm-spout :fire:",
+          "description": "Spout for Storm.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-03-28T21:42:08Z",
+            "owner": "amazon-archives",
+            "repo": "kinesis-storm-spout",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-streams-kinesis-adapter",
+          "description": "DynamoDB Streams Adapter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-03T18:52:56Z",
+            "owner": "awslabs",
+            "repo": "dynamodb-streams-kinesis-adapter",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kinesis-poster-worker",
+          "description": "Simple multi-threaded Python Poster and Worker.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2015-05-22T19:49:00Z",
+            "owner": "aws-samples",
+            "repo": "kinesis-poster-worker",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kinesis-log4j-appender",
+          "description": "Log4J Appender.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-08-06T00:39:14Z",
+            "owner": "amazon-archives",
+            "repo": "kinesis-log4j-appender",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-kinesis-client-net",
+          "description": "Client Library for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-02T20:48:22Z",
+            "owner": "awslabs",
+            "repo": "amazon-kinesis-client-net",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mqtt-kinesis-bridge",
+          "description": "Simple MQTT bridge in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-07-06T00:55:42Z",
+            "owner": "aws-samples",
+            "repo": "mqtt-kinesis-bridge",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Kinesis"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chalice :fire::fire::fire::fire::fire:",
+          "description": "Python Serverless Microframework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:03:00Z",
+            "owner": "aws",
+            "repo": "chalice",
+            "stars": 11065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awslabs/aws-sam-local :fire::fire::fire::fire::fire:",
+          "description": "CLI tool for local development and testing of Serverless applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:58:54Z",
+            "owner": "aws",
+            "repo": "aws-sam-cli",
+            "stars": 6728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-lambda-go :fire::fire::fire::fire::fire:",
+          "description": "Libraries, samples and tools to help Go developers develop Lambda functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-14T11:18:50Z",
+            "owner": "aws",
+            "repo": "aws-lambda-go",
+            "stars": 3798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambda-refarch-webapp :fire::fire::fire::fire:",
+          "description": "Reference Architecture for creating a Web Application.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-10T21:31:19Z",
+            "owner": "aws-samples",
+            "repo": "lambda-refarch-webapp",
+            "stars": 1586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-lambda-redshift-loader :fire::fire::fire:",
+          "description": "Redshift loader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-16T18:46:48Z",
+            "owner": "awslabs",
+            "repo": "aws-lambda-redshift-loader",
+            "stars": 595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambda-refarch-mobilebackend :fire::fire::fire:",
+          "description": "Reference Architecture for creating a Mobile Backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2020-02-24T07:18:42Z",
+            "owner": "aws-samples",
+            "repo": "lambda-refarch-mobilebackend",
+            "stars": 587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-lambda-java-libs :fire::fire:",
+          "description": "Official mirror for interface definitions and helper classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:39:10Z",
+            "owner": "aws",
+            "repo": "aws-lambda-java-libs",
+            "stars": 547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambda-refarch-fileprocessing :fire::fire:",
+          "description": "Reference Architecture for Real-time File Processing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-01-24T07:02:56Z",
+            "owner": "aws-samples",
+            "repo": "lambda-refarch-fileprocessing",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-elasticsearch-lambda-samples :fire::fire:",
+          "description": "Data ingestion for Elasticsearch from S3 and Kinesis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-09T00:13:17Z",
+            "owner": "aws-samples",
+            "repo": "amazon-elasticsearch-lambda-samples",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambda-ecs-worker-pattern :fire::fire:",
+          "description": "Extends Lambda using SQS and ECS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "POV-Ray SDL",
+            "last_commit": "2017-08-08T21:20:52Z",
+            "owner": "aws-samples",
+            "repo": "lambda-ecs-worker-pattern",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambda-refarch-iotbackend :fire::fire:",
+          "description": "Reference Architecture for creating an IoT Backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-23T22:04:04Z",
+            "owner": "aws-samples",
+            "repo": "lambda-refarch-iotbackend",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-thumbnails-lambda",
+          "description": "Uses the grunt-aws-lambda plugin to help you develop and test.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-06-16T07:37:11Z",
+            "owner": "aws-samples",
+            "repo": "create-thumbnails-lambda",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Lambda"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "opsworks-cookbooks :fire::fire::fire::fire:",
+          "description": "Chef Cookbooks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-04-10T09:16:55Z",
+            "owner": "aws",
+            "repo": "opsworks-cookbooks",
+            "stars": 1043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-example-cookbooks :fire:",
+          "description": "Cookbooks used with the sample apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-10-21T14:09:09Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-example-cookbooks",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-demo-php-simple-app",
+          "description": "Simple PHP app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-10-30T23:37:02Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-demo-php-simple-app",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-elasticsearch-cookbook",
+          "description": "Elasticsearch sample cookbook.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-01-25T18:38:46Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-elasticsearch-cookbook",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-windows-demo-",
+          "description": "A sample Node.JS app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-08-04T04:46:51Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-windows-demo-nodejs",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-demo-php-photo-share-app",
+          "description": "Simple PHP photo share app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-09-29T10:37:50Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-demo-php-photo-share-app",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-demo-rails-photo-share-app",
+          "description": "A sample Rails app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2022-09-05T10:46:17Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-demo-rails-photo-share-app",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-cloudwatch-logs-cookbooks",
+          "description": "CloudWatch sample cookbook.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2018-01-25T18:38:41Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-cloudwatch-logs-cookbooks",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-windows-demo-cookbooks",
+          "description": "Cookbooks for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-11-14T10:38:34Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-windows-demo-cookbooks",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-capistrano",
+          "description": "Capistrano with instances.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2020-02-29T08:40:11Z",
+            "owner": "amazon-archives",
+            "repo": "opsworks-capistrano",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-first-cookbook",
+          "description": "Cookbook used to demonstrate simple recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2020-01-30T20:19:24Z",
+            "owner": "amazon-archives",
+            "repo": "opsworks-first-cookbook",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-attribute-customization",
+          "description": "Attribute customization example.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-01-25T18:38:37Z",
+            "owner": "aws-samples",
+            "repo": "opsworks-attribute-customization",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "todo-sample-app-cookbooks",
+          "description": "Custom cookbooks associated with the todo-sample-app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2018-01-25T19:02:40Z",
+            "owner": "aws-samples",
+            "repo": "todo-sample-app-cookbooks",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "OpsWorks"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "amazon-redshift-utils :fire::fire::fire::fire::fire:",
+          "description": "Applies optimal Column Encoding to existing Tables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-03T03:26:41Z",
+            "owner": "awslabs",
+            "repo": "amazon-redshift-utils",
+            "stars": 2807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-lambda-redshift-loader :fire::fire::fire:",
+          "description": "Lambda database loader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-16T18:46:48Z",
+            "owner": "awslabs",
+            "repo": "aws-lambda-redshift-loader",
+            "stars": 595
+          }
+        }
+      ],
+      "title": "Redshift"
+    },
+    {
+      "description": "Community Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "minio/minio :fire::fire::fire::fire::fire:",
+          "description": "Object storage server compatible with S3.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-04-24T17:54:39Z",
+            "owner": "minio",
+            "repo": "minio",
+            "stars": 61392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ncw/rclone :fire::fire::fire::fire::fire:",
+          "description": "Rsync for various cloud storage providers such as S3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:59:44Z",
+            "owner": "rclone",
+            "repo": "rclone",
+            "stars": 59114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mickael-kerjean/filestash :fire::fire::fire::fire::fire:",
+          "description": "A modern web client for S3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T03:58:22Z",
+            "owner": "mickael-kerjean",
+            "repo": "filestash",
+            "stars": 14466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire:",
+          "description": "Allows Linux and Mac OS X to mount an S3 bucket via FUSE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T15:36:52Z",
+            "owner": "s3fs-fuse",
+            "repo": "s3fs-fuse",
+            "stars": 9952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kahing/goofys :fire::fire::fire::fire::fire:",
+          "description": "a Filey System for Amazon S3 written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-18T14:25:03Z",
+            "owner": "kahing",
+            "repo": "goofys",
+            "stars": 5566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3tools/s3cmd :fire::fire::fire::fire::fire:",
+          "description": "CLI for managing S3 and CloudFront.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T23:26:17Z",
+            "owner": "s3tools",
+            "repo": "s3cmd",
+            "stars": 4900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peak/s5cmd :fire::fire::fire:",
+          "description": "Fast S3 and local filesystem execution tool with wildcard and batch command support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-13T07:30:32Z",
+            "owner": "peak",
+            "repo": "s5cmd",
+            "stars": 4161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minio/mc :fire::fire::fire::fire::fire:",
+          "description": "Minio Client for filesystem and cloud storage.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-11-20T03:07:53Z",
+            "owner": "minio",
+            "repo": "mc",
+            "stars": 3523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jubos/fake-s3 :fire::fire::fire::fire::fire:",
+          "description": "Lightweight S3 clone that simulates most commands.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-04-13T18:57:21Z",
+            "owner": "curtis0x",
+            "repo": "fake-s3",
+            "stars": 2927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3git/s3git :fire::fire::fire::fire:",
+          "description": "CLI tool that allows you to create a distributed, decentralized and versioned repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-08-02T00:27:55Z",
+            "owner": "s3git",
+            "repo": "s3git",
+            "stars": 1461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bloomreach/s4cmd :fire::fire::fire::fire:",
+          "description": "S3 command line tool, faster than S3cmd for large files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-21T12:59:31Z",
+            "owner": "bloomreach",
+            "repo": "s4cmd",
+            "stars": 1395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rlmcpherson/s3gof3r :fire::fire::fire::fire:",
+          "description": "Fast, concurrent, streaming access, includes a CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-08-28T17:43:13Z",
+            "owner": "rlmcpherson",
+            "repo": "s3gof3r",
+            "stars": 1143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "littlstar/s3renity :fire::fire::fire::fire:",
+          "description": "Batch functions with concurrency control (each, map, reduce, filter, join)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-17T16:38:53Z",
+            "owner": "littlstar",
+            "repo": "s3-lambda",
+            "stars": 1059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marcel/aws-s3 :fire::fire::fire:",
+          "description": "Ruby implementation of Amazon's S3 REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-05-31T22:11:27Z",
+            "owner": "marcel",
+            "repo": "aws-s3",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danilop/yas3fs :fire::fire::fire:",
+          "description": "Yet Another S3-backed File System, inspired by s3fs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T15:17:22Z",
+            "owner": "danilop",
+            "repo": "yas3fs",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waynehoover/s3_direct_upload :fire::fire::fire:",
+          "description": "Direct Upload to Amazon S3 With CORS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-09-25T15:26:28Z",
+            "owner": "waynehoover",
+            "repo": "s3_direct_upload",
+            "stars": 655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CulturalMe/meteor-slingshot :fire::fire::fire:",
+          "description": "Upload files in meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-04T07:17:10Z",
+            "owner": "CulturalMe",
+            "repo": "meteor-slingshot",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anomalizer/ngx_aws_auth :fire::fire:",
+          "description": "Implements proxying of authenticated requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-09T14:48:15Z",
+            "owner": "anomalizer",
+            "repo": "ngx_aws_auth",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sorentwo/carrierwave-aws :fire::fire:",
+          "description": "Adapter for CarrierWave.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T21:03:54Z",
+            "owner": "carrierwaveuploader",
+            "repo": "carrierwave-aws",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgherveou/gulp-awspublish :fire::fire:",
+          "description": "Gulp plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-26T07:05:14Z",
+            "owner": "pgherveou",
+            "repo": "gulp-awspublish",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mishudark/s3-parallel-put :fire::fire:",
+          "description": "CLI that supports parallel uploads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-27T09:06:48Z",
+            "owner": "mishudark",
+            "repo": "s3-parallel-put",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MathieuLoutre/grunt-aws-s3 :fire::fire:",
+          "description": "Grunt plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-25T21:01:44Z",
+            "owner": "MathieuLoutre",
+            "repo": "grunt-aws-s3",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mardix/flask-cloudy :fire::fire:",
+          "description": "Flask extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-12T02:53:30Z",
+            "owner": "mardix",
+            "repo": "flask-cloudy",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "schickling/git-s3 :fire::fire:",
+          "description": "Deploy your git repo to a bucket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-04-05T07:28:28Z",
+            "owner": "schickling",
+            "repo": "git-s3",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spring-projects/aws-maven :fire::fire:",
+          "description": "Maven Wagon for S3.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-10-18T08:19:15Z",
+            "owner": "spring-attic",
+            "repo": "aws-maven",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weavejester/clj-aws-s3 :fire:",
+          "description": "Client library for Clojure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2017-04-01T11:59:37Z",
+            "owner": "weavejester",
+            "repo": "clj-aws-s3",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "owocki/s3_disk_util :fire:",
+          "description": "S3 Disk usage (du) utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-31T01:07:18Z",
+            "owner": "owocki",
+            "repo": "s3_disk_util",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mumrah/s3-multipart :fire:",
+          "description": "Parallel upload/download to S3 via Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-11-25T21:39:51Z",
+            "owner": "mumrah",
+            "repo": "s3-multipart",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tongwang/s3fs-c :fire:",
+          "description": "Mounts buckets for use on a local file system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2013-04-13T23:26:25Z",
+            "owner": "tongwang",
+            "repo": "s3fs-c",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grippy/node-s3",
+          "description": "Node.js app to manage buckets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2011-11-16T01:13:38Z",
+            "owner": "grippy",
+            "repo": "node-s3",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "S3"
+    },
+    {
+      "description": "Community Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "drewblas/aws-ses :fire::fire::fire:",
+          "description": "Provides an easy ruby DSL & interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-01-18T22:22:00Z",
+            "owner": "drewblas",
+            "repo": "aws-ses",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microapps/MoonMail :fire::fire::fire::fire:",
+          "description": "Shoot billions of emails using SES and Lambda.",
+          "children": []
+        }
+      ],
+      "title": "SES"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-flow-ruby :fire:",
+          "description": "Creates background jobs and multistep workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2017-09-27T14:17:16Z",
+            "owner": "amazon-archives",
+            "repo": "aws-flow-ruby",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-flow-ruby-samples",
+          "description": "AWS Flow Framework for Ruby samples.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2017-04-05T20:34:18Z",
+            "owner": "aws-samples",
+            "repo": "aws-flow-ruby-samples",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-flow-ruby-opsworks-helloworld",
+          "description": "Hello World sample.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2016-06-30T20:12:54Z",
+            "owner": "aws-samples",
+            "repo": "aws-flow-ruby-opsworks-helloworld",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Simple Workflow"
+    },
+    {
+      "description": "Community Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:",
+          "description": "Rules engine for management, DSL in yaml for query, filter, and actions on resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:10:12Z",
+            "owner": "cloud-custodian",
+            "repo": "cloud-custodian",
+            "stars": 6044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mitchellh/vagrant-aws :fire::fire::fire::fire::fire:",
+          "description": "Use Vagrant to manage your EC2 and VPC instances.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-06-04T16:51:42Z",
+            "owner": "mitchellh",
+            "repo": "vagrant-aws",
+            "stars": 2588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NixOS/nixops :fire::fire::fire::fire:",
+          "description": "Use NixOS to provision EC2 instances, S3 buckets, and other resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-28T16:45:15Z",
+            "owner": "NixOS",
+            "repo": "nixops",
+            "stars": 2184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "colinbjohnson/aws-missing-tools :fire::fire::fire::fire:",
+          "description": "Tools for managing resources including EC2, EBS, RDS and Route53.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-05-01T00:16:04Z",
+            "owner": "cloudavail",
+            "repo": "aws-missing-tools",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k1LoW/awspec :fire::fire::fire::fire:",
+          "description": "RSpec tests your resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T00:17:49Z",
+            "owner": "k1LoW",
+            "repo": "awspec",
+            "stars": 1177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chef-cookbooks/aws :fire::fire:",
+          "description": "Development repository for aws Chef cookbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-28T05:41:28Z",
+            "owner": "sous-chefs",
+            "repo": "aws",
+            "stars": 658
+          }
+        }
+      ],
+      "title": "DevOps"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "s2n :fire::fire::fire::fire::fire:",
+          "description": "An implementation of the TLS/SSL protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:12:30Z",
+            "owner": "aws",
+            "repo": "s2n-tls",
+            "stars": 4749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-tvm-identity",
+          "description": "Token Vending Machine for Identity Registration.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2017-07-17T02:01:10Z",
+            "owner": "amazon-archives",
+            "repo": "aws-tvm-identity",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-tvm-anonymous",
+          "description": "Token Vending Machine for Anonymous Registration.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2017-07-17T02:00:46Z",
+            "owner": "amazon-archives",
+            "repo": "aws-tvm-anonymous",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-sha256-agentcs",
+          "description": "SHA256 Agent Compatibility Ccanner.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-23T21:37:25Z",
+            "owner": "awslabs",
+            "repo": "aws-sha256-agentcs",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "AWS Repos:\nRepos Accompanying Blogs, Training Events, and Conferences.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aws-spot-labs :fire::fire::fire:",
+          "description": "Best practices using AWS Spot Instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-07T05:36:25Z",
+            "owner": "awslabs",
+            "repo": "ec2-spot-labs",
+            "stars": 982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-big-data-blog :fire::fire::fire:",
+          "description": "Samples from the AWS Big Data Blog.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-07-15T21:09:04Z",
+            "owner": "aws-samples",
+            "repo": "aws-big-data-blog",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-arch-backoff-simulator :fire:",
+          "description": "Jitter and backoff Simulator for AWS architecture blog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-02T12:07:28Z",
+            "owner": "aws-samples",
+            "repo": "aws-arch-backoff-simulator",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "railsconf2013-tech-demo :fire:",
+          "description": "Seahorse demo from RailsConf 2013.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2020-02-29T16:08:46Z",
+            "owner": "amazon-archives",
+            "repo": "railsconf2013-tech-demo",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-training-demo :fire:",
+          "description": "Demos from the Technical Trainers community.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2019-04-09T21:26:39Z",
+            "owner": "amazon-archives",
+            "repo": "aws-training-demo",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "java-meme-generator-sample",
+          "description": "Meme generation app from re:Invent 2012.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-01-25T19:02:06Z",
+            "owner": "aws-samples",
+            "repo": "java-meme-generator-sample",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reinvent2014-scalable-site-management",
+          "description": "Scalable site management sample from re:Invent 2014.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-01-04T18:54:25Z",
+            "owner": "aws-samples",
+            "repo": "reinvent2014-scalable-site-management",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reinvent2013-js-blog-demo",
+          "description": "Demo blogging app from re:Invent 2013.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-01-25T18:37:29Z",
+            "owner": "aws-samples",
+            "repo": "reinvent2013-js-blog-demo",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timely-security-analytics",
+          "description": "Security analytics sample from 2015 re:Invent 2015.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2020-01-30T20:19:37Z",
+            "owner": "amazon-archives",
+            "repo": "timely-security-analytics",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "todo-sample-app",
+          "description": "Simple \"Todo\" app from RailsConf 2014.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2020-02-28T19:53:27Z",
+            "owner": "amazon-archives",
+            "repo": "todo-sample-app",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reinvent2013-mobile-photo-share",
+          "description": "Mobile photo share app from re:Invent 2014.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-01-25T19:02:26Z",
+            "owner": "aws-samples",
+            "repo": "reinvent2013-mobile-photo-share",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-mobile-self-paced-labs-samples",
+          "description": "Android Snake Game from a self-paced lab.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-01-25T19:01:53Z",
+            "owner": "aws-samples",
+            "repo": "aws-mobile-self-paced-labs-samples",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-demo-php-simple-app",
+          "description": "PHP apps from the AWS Blogs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-02-22T05:08:09Z",
+            "owner": "aws-samples",
+            "repo": "aws-demo-php-simple-app",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reinvent2015-dev309",
+          "description": "Large Scale Metrics Analysis from re:Invent 2015.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-01-25T18:37:33Z",
+            "owner": "aws-samples",
+            "repo": "reinvent2015-dev309",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-mobile-sample-wif",
+          "description": "Samples from the AWS Mobile SDK blog.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-01-25T19:01:49Z",
+            "owner": "aws-samples",
+            "repo": "aws-mobile-sample-wif",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Accompanying Repos"
+    },
+    {
+      "description": "AWS Repos:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "simplebeerservice :fire::fire:",
+          "description": "Cloud-connected kegerator that streams live sensor data to AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-07-20T18:21:23Z",
+            "owner": "awslabs",
+            "repo": "simplebeerservice",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amediamanager",
+          "description": "Media manager.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-01-30T20:11:03Z",
+            "owner": "amazon-archives",
+            "repo": "amediamanager",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-sdk-js-sample-video-transcoder",
+          "description": "Sample cross-platform video transcoder app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-01-25T19:01:58Z",
+            "owner": "aws-samples",
+            "repo": "aws-sdk-js-sample-video-transcoder",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-hal-client-java",
+          "description": "Java client for the Hypertext Application Language.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-10-13T23:58:35Z",
+            "owner": "amazon-archives",
+            "repo": "aws-hal-client-java",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-model-validators",
+          "description": "Tools for validating the AWS service JSON model files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2015-05-19T17:59:19Z",
+            "owner": "amazon-archives",
+            "repo": "aws-model-validators",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Miscellaneous Repos"
+    },
+    {
+      "description": "How-to's, training, whitepapers, docs, and case studies.",
+      "items": [],
+      "title": "Guides, Books, Documentation, and Training"
+    },
+    {
+      "description": "Blogs, discussion groups, conferences, and social media.",
+      "items": [],
+      "title": "Social"
+    },
+    {
+      "description": "Appendix of official services, grouped by service category.",
+      "items": [],
+      "title": "Appendix of Core Services"
+    },
+    {
+      "description": "Check out the Credits page.",
+      "items": [],
+      "title": "Credits"
+    },
+    {
+      "description": "Other awesome lists can be found in awesome and awesome-awesomeness.",
+      "items": [],
+      "title": "Other Awesome Lists"
+    },
+    {
+      "description": "Feel free to contact me to discuss any issues, questions, or comments.\nMy contact info can be found on my GitHub page.",
+      "items": [],
+      "title": "Contact Info"
+    },
+    {
+      "description": "I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:28:19.704Z",
+    "original_repository": "donnemartin/awesome-aws",
+    "original_repository_sha": "5a49af5f118cef44bd91cdcb7aafe045ef31ad60",
+    "enhanced_repository": "enhansome/enhansome-aws",
+    "enhanced_repository_description": null,
+    "title": "Awesome AWS with stars"
+  }
+}
