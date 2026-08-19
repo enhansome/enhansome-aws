@@ -2416,7 +2416,7 @@
                 "last_commit": "2026-08-19T10:28:59Z",
                 "owner": "openebs",
                 "repo": "openebs",
-                "stars": 9799
+                "stars": 9800
               }
             },
             {
@@ -3927,7 +3927,7 @@
                 "last_commit": "2026-08-18T16:14:11Z",
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28755
+                "stars": 28756
               }
             },
             {
@@ -4016,7 +4016,7 @@
                 "last_commit": "2026-04-24T17:54:39Z",
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61388
+                "stars": 61389
               }
             },
             {
@@ -4028,10 +4028,10 @@
                 "archived": false,
                 "id": 17803236,
                 "language": "Go",
-                "last_commit": "2026-08-18T13:56:27Z",
+                "last_commit": "2026-08-19T12:14:13Z",
                 "owner": "rclone",
                 "repo": "rclone",
-                "stars": 59259
+                "stars": 59260
               }
             },
             {
@@ -4783,7 +4783,7 @@
                 "archived": false,
                 "id": 224386599,
                 "language": "Python",
-                "last_commit": "2026-08-18T13:10:05Z",
+                "last_commit": "2026-08-19T11:43:40Z",
                 "owner": "bridgecrewio",
                 "repo": "checkov",
                 "stars": 8954
@@ -5758,8 +5758,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:36:28.142Z",
+    "last_updated": "2026-08-19T12:16:24.938Z",
     "original_repository": "donnemartin/awesome-aws",
+    "original_repository_id": 44104712,
     "original_repository_sha": "5a49af5f118cef44bd91cdcb7aafe045ef31ad60",
     "enhanced_repository": "enhansome/enhansome-aws",
     "enhanced_repository_description": null,
