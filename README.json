@@ -44,6 +44,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Repo :fire::fire::fire::fire:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35440404,
+                "language": "C++",
+                "last_commit": "2026-08-21T20:08:54Z",
+                "owner": "aws",
+                "repo": "aws-sdk-cpp",
+                "stars": 2208
+              }
+            }
+          ],
+          "description": "The C++ SDK is a labs project with limited docs and/or samples.",
+          "node_type": "group",
+          "title": "C++ SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Repo :fire::fire::fire:",
               "description": null,
               "children": [],
@@ -106,7 +128,7 @@
                 "last_commit": "2025-07-31T16:06:20Z",
                 "owner": "aws",
                 "repo": "aws-sdk-go",
-                "stars": 8676
+                "stars": 8675
               }
             },
             {
@@ -121,7 +143,22 @@
                 "last_commit": "2025-07-31T16:06:20Z",
                 "owner": "aws",
                 "repo": "aws-sdk-go",
-                "stars": 8676
+                "stars": 8675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "goamz/goamz :fire::fire:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18280229,
+                "language": "Go",
+                "last_commit": "2021-11-18T14:51:08Z",
+                "owner": "goamz",
+                "repo": "goamz",
+                "stars": 370
               }
             }
           ],
@@ -366,6 +403,43 @@
           "description": "Related Repos:",
           "node_type": "group",
           "title": "JavaScript SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo :fire::fire::fire:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11859481,
+                "language": "Haskell",
+                "last_commit": "2026-06-10T23:10:10Z",
+                "owner": "brendanhay",
+                "repo": "amazonka",
+                "stars": 615
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aristidb/aws :fire::fire:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 973074,
+                "language": "Haskell",
+                "last_commit": "2025-12-08T20:44:06Z",
+                "owner": "aristidb",
+                "repo": "aws",
+                "stars": 246
+              }
+            }
+          ],
+          "description": "Related Repos:\nThe Haskell SDK is a community project with limited docs and/or samples.",
+          "node_type": "group",
+          "title": "Haskell SDK"
         },
         {
           "children": [
@@ -736,6 +810,43 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 32958500,
+                "language": "Java",
+                "last_commit": "2017-09-29T22:32:45Z",
+                "owner": "amazon-archives",
+                "repo": "aws-scala-sdk",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "seratch/AWScala :fire::fire::fire:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12340196,
+                "language": "Scala",
+                "last_commit": "2023-06-13T10:47:07Z",
+                "owner": "seratch",
+                "repo": "AWScala",
+                "stars": 728
+              }
+            }
+          ],
+          "description": "Related Repos:\nThe Scala SDK is a labs project with limited docs and/or samples.",
+          "node_type": "group",
+          "title": "Scala SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Repo with Samples :fire:",
               "description": null,
               "children": [],
@@ -768,6 +879,28 @@
           "description": null,
           "node_type": "group",
           "title": "Unity SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 24869588,
+                "language": "C#",
+                "last_commit": "2018-07-02T20:09:40Z",
+                "owner": "amazon-archives",
+                "repo": "aws-sdk-xamarin",
+                "stars": 45
+              }
+            }
+          ],
+          "description": "The Xamarin SDK is a labs project with limited docs and/or samples.",
+          "node_type": "group",
+          "title": "Xamarin SDK"
         },
         {
           "children": [
@@ -829,6 +962,21 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Repo :fire::fire::fire::fire::fire:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6780767,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:25:31Z",
+                "owner": "aws",
+                "repo": "aws-cli",
+                "stars": 17212
+              }
+            },
             {
               "node_type": "item",
               "title": "awslabs/aws-shell :fire::fire::fire::fire::fire:",
@@ -916,6 +1064,21 @@
                 "repo": "aws-apigateway-sdk-java",
                 "stars": 32
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -933,7 +1096,7 @@
                 "archived": false,
                 "id": 6780767,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:26:21Z",
+                "last_commit": "2026-08-24T13:25:31Z",
                 "owner": "aws",
                 "repo": "aws-cli",
                 "stars": 17212
@@ -1120,7 +1283,7 @@
                 "archived": false,
                 "id": 105808767,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T11:06:16Z",
+                "last_commit": "2026-08-24T13:33:38Z",
                 "owner": "aws",
                 "repo": "aws-cdk",
                 "stars": 12876
@@ -1345,6 +1508,58 @@
           "children": [
             {
               "node_type": "item",
+              "title": "cloudsearchable",
+              "description": "An ActiveRecord-style ORM query interface.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12601144,
+                "language": "Ruby",
+                "last_commit": "2021-04-28T16:23:22Z",
+                "owner": "amazon-archives",
+                "repo": "cloudsearchable",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            }
+          ],
+          "description": "AWS Repos:\nCommunity Repos:",
+          "node_type": "group",
+          "title": "CloudSearch"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aws-cloudtrail-processing-library",
+              "description": "Easily consume and process log files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16625735,
+                "language": "Java",
+                "last_commit": "2026-03-17T15:50:23Z",
+                "owner": "aws",
+                "repo": "aws-cloudtrail-processing-library",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
               "title": "GorillaStack/auto-tag :fire::fire:",
               "description": "Automatically tag AWS resources on creation, for cost assignment.",
               "children": [],
@@ -1521,6 +1736,21 @@
                 "repo": "aws-codedeploy-plugin",
                 "stars": 155
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -1617,6 +1847,21 @@
                 "owner": "aws-samples",
                 "repo": "AWSCodePipeline-S3-AWSCodeDeploy_Windows",
                 "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
               }
             }
           ],
@@ -1770,6 +2015,43 @@
           "children": [
             {
               "node_type": "item",
+              "title": "data-pipeline-samples :fire::fire:",
+              "description": "Sample pipelines.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 39263327,
+                "language": "Python",
+                "last_commit": "2020-05-08T20:06:15Z",
+                "owner": "amazon-archives",
+                "repo": "data-pipeline-samples",
+                "stars": 473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            }
+          ],
+          "description": "AWS Repos:\nCommunity Repos:",
+          "node_type": "group",
+          "title": "Data Pipeline"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "aws-device-farm-sample-app-for-android :fire:",
               "description": "Sample Android app.",
               "children": [],
@@ -1841,6 +2123,21 @@
                 "owner": "aws-samples",
                 "repo": "aws-device-farm-calabash-tests-for-sample-app",
                 "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
               }
             }
           ],
@@ -2391,6 +2688,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            },
+            {
+              "node_type": "item",
               "title": "kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:",
               "description": "Bootstrap Kubernetes the hard way on EC2. No scripts.",
               "children": [],
@@ -2401,7 +2713,7 @@
                 "last_commit": "2025-04-10T06:11:47Z",
                 "owner": "kelseyhightower",
                 "repo": "kubernetes-the-hard-way",
-                "stars": 49542
+                "stars": 49544
               }
             },
             {
@@ -2413,7 +2725,7 @@
                 "archived": false,
                 "id": 64654523,
                 "language": null,
-                "last_commit": "2026-08-24T06:08:11Z",
+                "last_commit": "2026-08-24T13:40:44Z",
                 "owner": "openebs",
                 "repo": "openebs",
                 "stars": 9800
@@ -2750,6 +3062,43 @@
           "children": [
             {
               "node_type": "item",
+              "title": "amazon-ecs-amazon-efs",
+              "description": "Persist data from ECS.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 43520546,
+                "language": null,
+                "last_commit": "2020-03-09T13:35:07Z",
+                "owner": "awslabs",
+                "repo": "amazon-ecs-amazon-efs",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            }
+          ],
+          "description": "AWS Repos:\nCommunity Repos:",
+          "node_type": "group",
+          "title": "Elastic File System"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "emr-bootstrap-actions :fire::fire::fire:",
               "description": "Sample bootstrap actions.",
               "children": [],
@@ -2776,6 +3125,21 @@
                 "owner": "amazon-archives",
                 "repo": "emr-sample-apps",
                 "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yelp/mrjob :fire::fire::fire::fire::fire:",
+              "description": "Run MapReduce jobs on Hadoop or EMR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 984742,
+                "language": "Python",
+                "last_commit": "2026-04-02T17:05:58Z",
+                "owner": "Yelp",
+                "repo": "mrjob",
+                "stars": 2613
               }
             }
           ],
@@ -2813,6 +3177,21 @@
                 "owner": "aws-samples",
                 "repo": "opsworks-elasticsearch-cookbook",
                 "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elastic/elasticsearch-cloud-aws :fire::fire::fire:",
+              "description": "Plugin for Elasticsearch.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2916712,
+                "language": null,
+                "last_commit": "2025-02-05T16:12:42Z",
+                "owner": "elastic",
+                "repo": "elasticsearch-cloud-aws",
+                "stars": 576
               }
             }
           ],
@@ -2881,11 +3260,48 @@
                 "repo": "aws-elasticache-cluster-client-libmemcached",
                 "stars": 26
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
           "node_type": "group",
           "title": "Elasticache"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vsespb/mt-aws-glacier :fire::fire::fire:",
+              "description": "Perl Multithreaded Multipart sync to Glacier.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5553998,
+                "language": "Perl",
+                "last_commit": "2017-03-10T02:56:49Z",
+                "owner": "vsespb",
+                "repo": "mt-aws-glacier",
+                "stars": 537
+              }
+            }
+          ],
+          "description": "Community Repos:",
+          "node_type": "group",
+          "title": "Glacier"
         },
         {
           "children": [
@@ -3143,6 +3559,21 @@
                 "repo": "mqtt-kinesis-bridge",
                 "stars": 40
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -3250,7 +3681,7 @@
                 "archived": false,
                 "id": 35844242,
                 "language": "Java",
-                "last_commit": "2026-08-24T10:42:59Z",
+                "last_commit": "2026-08-24T13:17:34Z",
                 "owner": "aws",
                 "repo": "aws-lambda-java-libs",
                 "stars": 547
@@ -3685,6 +4116,80 @@
           "children": [
             {
               "node_type": "item",
+              "title": "machine-learning-samples :fire::fire::fire:",
+              "description": "Sample apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32830403,
+                "language": "Python",
+                "last_commit": "2021-01-28T09:23:27Z",
+                "owner": "aws-samples",
+                "repo": "machine-learning-samples",
+                "stars": 880
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            }
+          ],
+          "description": "AWS Repos:\nCommunity Repos:",
+          "node_type": "group",
+          "title": "Machine Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aws-sdk-mobile-analytics-js",
+              "description": "JavaScript SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 31976898,
+                "language": "JavaScript",
+                "last_commit": "2018-12-29T20:30:48Z",
+                "owner": "aws",
+                "repo": "aws-sdk-mobile-analytics-js",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            }
+          ],
+          "description": "AWS Repos:\nCommunity Repos:",
+          "node_type": "group",
+          "title": "Mobile Analytics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "opsworks-cookbooks :fire::fire::fire::fire:",
               "description": "Chef Cookbooks.",
               "children": [],
@@ -3877,6 +4382,21 @@
                 "repo": "todo-sample-app-cookbooks",
                 "stars": 4
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -3969,6 +4489,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "route53-infima :fire::fire:",
+              "description": "Manages service-level fault isolation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 14215546,
+                "language": "Java",
+                "last_commit": "2022-08-05T18:22:20Z",
+                "owner": "awslabs",
+                "repo": "route53-infima",
+                "stars": 362
+              }
+            },
+            {
+              "node_type": "item",
               "title": "barnybug/cli53 :fire::fire::fire::fire:",
               "description": "cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.",
               "children": [],
@@ -4031,7 +4566,7 @@
                 "last_commit": "2026-08-21T16:53:41Z",
                 "owner": "rclone",
                 "repo": "rclone",
-                "stars": 59352
+                "stars": 59353
               }
             },
             {
@@ -4106,7 +4641,7 @@
                 "last_commit": "2025-06-13T07:30:32Z",
                 "owner": "peak",
                 "repo": "s5cmd",
-                "stars": 4170
+                "stars": 4169
               }
             },
             {
@@ -4527,6 +5062,21 @@
                 "repo": "aws-flow-ruby-opsworks-helloworld",
                 "stars": 6
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -4535,6 +5085,117 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "rjrodger/simpledb :fire:",
+              "description": "Node.js library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276854,
+                "language": "JavaScript",
+                "last_commit": "2017-10-12T20:18:46Z",
+                "owner": "rjrodger",
+                "repo": "simpledb",
+                "stars": 133
+              }
+            }
+          ],
+          "description": "Community Repos:",
+          "node_type": "group",
+          "title": "SimpleDB"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aws-php-sns-message-validator :fire:",
+              "description": "Message validation for PHP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36331048,
+                "language": "PHP",
+                "last_commit": "2025-11-07T14:05:23Z",
+                "owner": "aws",
+                "repo": "aws-php-sns-message-validator",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            }
+          ],
+          "description": "AWS Repos:\nCommunity Repos:",
+          "node_type": "group",
+          "title": "SNS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "amazon-sqs-java-messaging-lib :fire:",
+              "description": "Holds the Java Message Service to communicate with SQS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27937245,
+                "language": "Java",
+                "last_commit": "2026-06-02T03:19:10Z",
+                "owner": "awslabs",
+                "repo": "amazon-sqs-java-messaging-lib",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phstc/shoryuken :fire::fire::fire::fire:",
+              "description": "A super efficient SQS thread based message processor for Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23578850,
+                "language": "Ruby",
+                "last_commit": "2026-08-06T11:15:35Z",
+                "owner": "ruby-shoryuken",
+                "repo": "shoryuken",
+                "stars": 2125
+              }
+            }
+          ],
+          "description": "AWS Repos:\nCommunity Repos:",
+          "node_type": "group",
+          "title": "SQS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aws-data-wrangler :fire::fire::fire::fire::fire:",
+              "description": "Connects Pandas DataFrames and AWS data related services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172615836,
+                "language": "Python",
+                "last_commit": "2026-08-22T08:12:10Z",
+                "owner": "aws",
+                "repo": "aws-sdk-pandas",
+                "stars": 4117
+              }
+            },
             {
               "node_type": "item",
               "title": "donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:",
@@ -4786,7 +5447,7 @@
                 "last_commit": "2026-08-23T09:51:59Z",
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 8970
+                "stars": 8971
               }
             },
             {
@@ -5184,6 +5845,21 @@
                 "owner": "aws-samples",
                 "repo": "aws-mobile-sample-wif",
                 "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "startup-class/setup :fire::fire:",
+              "description": "EC2 setup files for Startup Engineering MOOC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11110016,
+                "language": "Shell",
+                "last_commit": "2017-04-25T23:48:23Z",
+                "owner": "startup-class",
+                "repo": "setup",
+                "stars": 295
               }
             }
           ],
@@ -5755,10 +6431,154 @@
         }
       ],
       "title": "Open Source Repos"
+    },
+    {
+      "description": "How-to's, training, whitepapers, docs, and case studies.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            }
+          ],
+          "description": "AWS Guides:\nCommunity Guides:",
+          "node_type": "group",
+          "title": "Getting Started Guides"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open Guide to AWS :fire::fire::fire::fire::fire:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63266213,
+                "language": "Shell",
+                "last_commit": "2024-08-16T02:51:54Z",
+                "owner": "open-guides",
+                "repo": "og-aws",
+                "stars": 36443
+              }
+            }
+          ],
+          "description": "AWS Guides:\nCommunity Guides:",
+          "node_type": "group",
+          "title": "General Guides"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AWS Lambda in Action Manning",
+              "description": "or Amazon.com - Code Repo :fire::fire:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52727700,
+                "language": "JavaScript",
+                "last_commit": "2018-04-19T10:55:39Z",
+                "owner": "danilop",
+                "repo": "AWS_Lambda_in_Action",
+                "stars": 288
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        }
+      ],
+      "title": "Guides, Books, Documentation, and Training"
+    },
+    {
+      "description": "Blogs, discussion groups, conferences, and social media.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Curated List of Engineering Blogs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37382858,
+                "language": "Ruby",
+                "last_commit": "2024-08-21T13:01:11Z",
+                "owner": "kilimchoi",
+                "repo": "engineering-blogs",
+                "stars": 38544
+              }
+            }
+          ],
+          "description": "AWS Blogs:\nCommunity Blogs:",
+          "node_type": "group",
+          "title": "Blogs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            }
+          ],
+          "description": "AWS Pages:\nCommunity Pages:",
+          "node_type": "group",
+          "title": "Facebook Pages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Contribute",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            }
+          ],
+          "description": "AWS Conferences:\nCommunity Conferences:",
+          "node_type": "group",
+          "title": "Conferences"
+        }
+      ],
+      "title": "Social"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:40:55.728Z",
+    "last_updated": "2026-08-24T13:52:55.270Z",
     "original_repository": "donnemartin/awesome-aws",
     "original_repository_id": 44104712,
     "original_repository_sha": "5a49af5f118cef44bd91cdcb7aafe045ef31ad60",
