@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-03T16:00:31Z",
                 "owner": "aws-amplify",
                 "repo": "aws-sdk-android",
-                "stars": 1077
+                "stars": 1076
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-03T16:03:23Z",
                 "owner": "aws-amplify",
                 "repo": "aws-sdk-ios",
-                "stars": 1704
+                "stars": 1705
               }
             },
             {
@@ -515,7 +515,7 @@
                 "last_commit": "2026-08-21T19:35:52Z",
                 "owner": "boto",
                 "repo": "boto3",
-                "stars": 9874
+                "stars": 9876
               }
             },
             {
@@ -575,7 +575,7 @@
                 "last_commit": "2026-08-21T19:35:52Z",
                 "owner": "boto",
                 "repo": "boto3",
-                "stars": 9874
+                "stars": 9876
               }
             },
             {
@@ -590,7 +590,7 @@
                 "last_commit": "2026-08-21T20:08:56Z",
                 "owner": "boto",
                 "repo": "botocore",
-                "stars": 1637
+                "stars": 1638
               }
             }
           ],
@@ -609,10 +609,10 @@
                 "archived": false,
                 "id": 66023605,
                 "language": "Java",
-                "last_commit": "2026-08-21T18:41:40Z",
+                "last_commit": "2026-08-24T07:22:18Z",
                 "owner": "awsdocs",
                 "repo": "aws-doc-sdk-examples",
-                "stars": 10451
+                "stars": 10452
               }
             },
             {
@@ -798,7 +798,7 @@
                 "last_commit": "2026-08-23T02:52:07Z",
                 "owner": "aws",
                 "repo": "aws-sdk-net",
-                "stars": 134
+                "stars": 135
               }
             },
             {
@@ -933,10 +933,10 @@
                 "archived": false,
                 "id": 6780767,
                 "language": "Python",
-                "last_commit": "2026-08-23T06:22:55Z",
+                "last_commit": "2026-08-24T06:26:21Z",
                 "owner": "aws",
                 "repo": "aws-cli",
-                "stars": 17210
+                "stars": 17212
               }
             },
             {
@@ -1120,7 +1120,7 @@
                 "archived": false,
                 "id": 105808767,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T20:52:15Z",
+                "last_commit": "2026-08-24T11:06:16Z",
                 "owner": "aws",
                 "repo": "aws-cdk",
                 "stars": 12876
@@ -2401,7 +2401,7 @@
                 "last_commit": "2025-04-10T06:11:47Z",
                 "owner": "kelseyhightower",
                 "repo": "kubernetes-the-hard-way",
-                "stars": 49535
+                "stars": 49542
               }
             },
             {
@@ -2413,7 +2413,7 @@
                 "archived": false,
                 "id": 64654523,
                 "language": null,
-                "last_commit": "2026-08-23T00:29:39Z",
+                "last_commit": "2026-08-24T06:08:11Z",
                 "owner": "openebs",
                 "repo": "openebs",
                 "stars": 9800
@@ -3175,10 +3175,10 @@
                 "archived": false,
                 "id": 92205085,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:31:06Z",
+                "last_commit": "2026-08-24T09:46:31Z",
                 "owner": "aws",
                 "repo": "aws-sam-cli",
-                "stars": 6730
+                "stars": 6731
               }
             },
             {
@@ -3250,7 +3250,7 @@
                 "archived": false,
                 "id": 35844242,
                 "language": "Java",
-                "last_commit": "2026-08-21T16:47:00Z",
+                "last_commit": "2026-08-24T10:42:59Z",
                 "owner": "aws",
                 "repo": "aws-lambda-java-libs",
                 "stars": 547
@@ -3343,7 +3343,7 @@
                 "last_commit": "2026-08-20T16:14:13Z",
                 "owner": "serverless",
                 "repo": "serverless",
-                "stars": 46918
+                "stars": 46917
               }
             },
             {
@@ -3358,7 +3358,7 @@
                 "last_commit": "2018-11-13T02:23:55Z",
                 "owner": "schickling",
                 "repo": "chromeless",
-                "stars": 13225
+                "stars": 13224
               }
             },
             {
@@ -4016,7 +4016,7 @@
                 "last_commit": "2026-04-24T17:54:39Z",
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61381
+                "stars": 61382
               }
             },
             {
@@ -4031,7 +4031,7 @@
                 "last_commit": "2026-08-21T16:53:41Z",
                 "owner": "rclone",
                 "repo": "rclone",
-                "stars": 59320
+                "stars": 59352
               }
             },
             {
@@ -4046,7 +4046,7 @@
                 "last_commit": "2026-08-21T16:34:36Z",
                 "owner": "mickael-kerjean",
                 "repo": "filestash",
-                "stars": 14535
+                "stars": 14539
               }
             },
             {
@@ -4058,7 +4058,7 @@
                 "archived": false,
                 "id": 14627445,
                 "language": "C++",
-                "last_commit": "2026-08-22T06:59:19Z",
+                "last_commit": "2026-08-23T13:31:46Z",
                 "owner": "s3fs-fuse",
                 "repo": "s3fs-fuse",
                 "stars": 9971
@@ -4076,7 +4076,7 @@
                 "last_commit": "2024-07-18T14:25:03Z",
                 "owner": "kahing",
                 "repo": "goofys",
-                "stars": 5566
+                "stars": 5565
               }
             },
             {
@@ -4547,7 +4547,7 @@
                 "last_commit": "2024-03-20T13:52:34Z",
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29310
+                "stars": 29312
               }
             },
             {
@@ -4629,7 +4629,7 @@
                 "last_commit": "2021-06-04T16:51:42Z",
                 "owner": "mitchellh",
                 "repo": "vagrant-aws",
-                "stars": 2588
+                "stars": 2587
               }
             },
             {
@@ -4708,7 +4708,7 @@
                 "archived": false,
                 "id": 21287076,
                 "language": "C",
-                "last_commit": "2026-08-21T21:37:22Z",
+                "last_commit": "2026-08-24T00:08:53Z",
                 "owner": "aws",
                 "repo": "s2n-tls",
                 "stars": 4755
@@ -4771,7 +4771,7 @@
                 "last_commit": "2026-08-19T08:43:19Z",
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30359
+                "stars": 30361
               }
             },
             {
@@ -4786,7 +4786,7 @@
                 "last_commit": "2026-08-23T09:51:59Z",
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 8968
+                "stars": 8970
               }
             },
             {
@@ -5205,7 +5205,7 @@
                 "last_commit": "2022-07-20T18:21:23Z",
                 "owner": "awslabs",
                 "repo": "simplebeerservice",
-                "stars": 319
+                "stars": 318
               }
             },
             {
@@ -5280,7 +5280,7 @@
                 "last_commit": "2026-03-23T08:52:01Z",
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65149
+                "stars": 65147
               }
             },
             {
@@ -5295,7 +5295,7 @@
                 "last_commit": "2025-01-06T08:37:10Z",
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17086
+                "stars": 17087
               }
             },
             {
@@ -5325,7 +5325,7 @@
                 "last_commit": "2026-08-06T20:31:39Z",
                 "owner": "Netflix",
                 "repo": "eureka",
-                "stars": 12735
+                "stars": 12737
               }
             },
             {
@@ -5340,7 +5340,7 @@
                 "last_commit": "2026-08-22T02:49:55Z",
                 "owner": "spinnaker",
                 "repo": "spinnaker",
-                "stars": 9772
+                "stars": 9774
               }
             },
             {
@@ -5355,7 +5355,7 @@
                 "last_commit": "2026-08-22T18:51:50Z",
                 "owner": "getmoto",
                 "repo": "moto",
-                "stars": 8622
+                "stars": 8624
               }
             },
             {
@@ -5415,7 +5415,7 @@
                 "last_commit": "2025-12-17T00:32:09Z",
                 "owner": "Netflix",
                 "repo": "ribbon",
-                "stars": 4614
+                "stars": 4615
               }
             },
             {
@@ -5505,7 +5505,7 @@
                 "last_commit": "2026-08-11T21:21:29Z",
                 "owner": "Netflix",
                 "repo": "EVCache",
-                "stars": 2207
+                "stars": 2208
               }
             },
             {
@@ -5758,7 +5758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:32:45.591Z",
+    "last_updated": "2026-08-24T11:40:55.728Z",
     "original_repository": "donnemartin/awesome-aws",
     "original_repository_id": 44104712,
     "original_repository_sha": "5a49af5f118cef44bd91cdcb7aafe045ef31ad60",
