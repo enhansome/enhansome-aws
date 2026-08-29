@@ -21,7 +21,7 @@
                 "open_issues": 109,
                 "owner": "aws-amplify",
                 "repo": "aws-sdk-android",
-                "stars": 1076,
+                "stars": 1075,
                 "topics": [
                   "amazon-web-services",
                   "android",
@@ -417,7 +417,7 @@
                 "open_issues": 1,
                 "owner": "aws",
                 "repo": "aws-sdk-java",
-                "stars": 4199,
+                "stars": 4200,
                 "topics": [
                   "amazon",
                   "aws",
@@ -1063,7 +1063,7 @@
                 "open_issues": 149,
                 "owner": "awsdocs",
                 "repo": "aws-doc-sdk-examples",
-                "stars": 10454,
+                "stars": 10455,
                 "topics": [
                   "aws",
                   "cpp",
@@ -1477,7 +1477,7 @@
                 "open_issues": 724,
                 "owner": "aws",
                 "repo": "aws-cli",
-                "stars": 17227,
+                "stars": 17229,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -1644,7 +1644,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -1693,7 +1693,7 @@
                 "open_issues": 724,
                 "owner": "aws",
                 "repo": "aws-cli",
-                "stars": 17227,
+                "stars": 17229,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -1846,7 +1846,7 @@
                 "open_issues": 2,
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8986,
+                "stars": 8985,
                 "topics": [
                   "aws",
                   "aws-vault",
@@ -2026,11 +2026,11 @@
                 "id": 105808767,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T19:17:07Z",
-                "open_issues": 2845,
+                "last_commit": "2026-08-29T12:17:48Z",
+                "open_issues": 2847,
                 "owner": "aws",
                 "repo": "aws-cdk",
-                "stars": 12876,
+                "stars": 12877,
                 "topics": [
                   "aws",
                   "cloud-infrastructure",
@@ -2053,7 +2053,7 @@
                 "id": 129005655,
                 "language": "Python",
                 "license": "MIT-0",
-                "last_commit": "2026-08-28T23:07:16Z",
+                "last_commit": "2026-08-29T09:09:44Z",
                 "open_issues": 80,
                 "owner": "aws-cloudformation",
                 "repo": "cfn-lint",
@@ -2084,7 +2084,7 @@
                 "open_issues": 171,
                 "owner": "aws",
                 "repo": "aws-parallelcluster",
-                "stars": 888,
+                "stars": 889,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -2105,7 +2105,7 @@
                 "open_issues": 22,
                 "owner": "aws",
                 "repo": "aws-parallelcluster-cookbook",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -2445,7 +2445,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -2769,7 +2769,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -2944,7 +2944,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -3225,7 +3225,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -3379,7 +3379,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -4186,7 +4186,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -4228,7 +4228,7 @@
                 "open_issues": 54,
                 "owner": "kelseyhightower",
                 "repo": "kubernetes-the-hard-way",
-                "stars": 49572,
+                "stars": 49576,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -4829,7 +4829,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -5102,7 +5102,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -5559,7 +5559,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -5918,7 +5918,7 @@
                 "open_issues": 198,
                 "owner": "schickling",
                 "repo": "chromeless",
-                "stars": 13223,
+                "stars": 13224,
                 "topics": [
                   "chrome",
                   "graphcool",
@@ -6482,7 +6482,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -6552,7 +6552,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -6874,7 +6874,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -6923,7 +6923,7 @@
                 "open_issues": 68,
                 "owner": "awslabs",
                 "repo": "amazon-redshift-utils",
-                "stars": 2806,
+                "stars": 2805,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -7155,11 +7155,11 @@
                 "id": 17803236,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:45:29Z",
+                "last_commit": "2026-08-29T12:13:35Z",
                 "open_issues": 1244,
                 "owner": "rclone",
                 "repo": "rclone",
-                "stars": 59438,
+                "stars": 59448,
                 "topics": [
                   "azure-blob",
                   "azure-blob-storage",
@@ -7201,7 +7201,7 @@
                 "open_issues": 121,
                 "owner": "mickael-kerjean",
                 "repo": "filestash",
-                "stars": 14557,
+                "stars": 14558,
                 "topics": [
                   "archiving",
                   "azure",
@@ -7366,7 +7366,7 @@
                 "open_issues": 46,
                 "owner": "minio",
                 "repo": "mc",
-                "stars": 3522,
+                "stars": 3523,
                 "topics": [
                   "aws",
                   "aws-s3",
@@ -7986,7 +7986,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -8084,7 +8084,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -8133,7 +8133,7 @@
                 "open_issues": 51,
                 "owner": "awslabs",
                 "repo": "amazon-sqs-java-messaging-lib",
-                "stars": 182,
+                "stars": 183,
                 "topics": [
                   "amazon-sqs",
                   "jms",
@@ -8194,8 +8194,8 @@
                 "id": 172615836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T00:09:29Z",
-                "open_issues": 57,
+                "last_commit": "2026-08-29T08:12:25Z",
+                "open_issues": 58,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4119,
@@ -8240,7 +8240,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29331,
+                "stars": 29333,
                 "topics": [
                   "aws",
                   "big-data",
@@ -8615,7 +8615,7 @@
                 "open_issues": 75,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30367,
+                "stars": 30368,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -9432,7 +9432,7 @@
                 "open_issues": 0,
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65142,
+                "stars": 65143,
                 "topics": [
                   "aws",
                   "cloud",
@@ -9461,7 +9461,7 @@
                 "open_issues": 34,
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17092,
+                "stars": 17093,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -9521,7 +9521,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:57:59Z",
-                "open_issues": 102,
+                "open_issues": 101,
                 "owner": "spinnaker",
                 "repo": "spinnaker",
                 "stars": 9779,
@@ -10227,7 +10227,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -10276,7 +10276,7 @@
                 "open_issues": 159,
                 "owner": "open-guides",
                 "repo": "og-aws",
-                "stars": 36444,
+                "stars": 36445,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -10372,7 +10372,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -10421,7 +10421,7 @@
                 "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14128,
+                "stars": 14130,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -10457,7 +10457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:47.569Z",
+    "last_updated": "2026-08-29T15:36:05.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
@@ -10469,7 +10469,7 @@
       "open_issues": 102,
       "owner": "donnemartin",
       "repo": "awesome-aws",
-      "stars": 14128,
+      "stars": 14130,
       "topics": [
         "aws",
         "aws-cli",
