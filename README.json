@@ -21,7 +21,7 @@
                 "open_issues": 109,
                 "owner": "aws-amplify",
                 "repo": "aws-sdk-android",
-                "stars": 1075,
+                "stars": 1073,
                 "topics": [
                   "amazon-web-services",
                   "android",
@@ -49,7 +49,7 @@
                 "open_issues": 3,
                 "owner": "awslabs",
                 "repo": "aws-sdk-android-samples",
-                "stars": 1046,
+                "stars": 1045,
                 "topics": [
                   "android",
                   "aws",
@@ -77,11 +77,11 @@
                 "id": 35440404,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T21:01:46Z",
-                "open_issues": 102,
+                "last_commit": "2026-08-31T16:20:11Z",
+                "open_issues": 98,
                 "owner": "aws",
                 "repo": "aws-sdk-cpp",
-                "stars": 2208,
+                "stars": 2209,
                 "topics": [
                   "aws",
                   "cpp",
@@ -183,7 +183,7 @@
                 "open_issues": 0,
                 "owner": "aws",
                 "repo": "aws-sdk-go",
-                "stars": 8675,
+                "stars": 8673,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -208,7 +208,7 @@
                 "open_issues": 0,
                 "owner": "aws",
                 "repo": "aws-sdk-go",
-                "stars": 8675,
+                "stars": 8673,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -513,11 +513,11 @@
                 "id": 105590837,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T16:45:33Z",
-                "open_issues": 509,
+                "last_commit": "2026-08-31T15:56:24Z",
+                "open_issues": 511,
                 "owner": "aws-amplify",
                 "repo": "amplify-js",
-                "stars": 9557,
+                "stars": 9558,
                 "topics": [
                   "amazon-cognito",
                   "analytics",
@@ -802,11 +802,11 @@
                 "id": 6269013,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T20:42:30Z",
-                "open_issues": 22,
+                "last_commit": "2026-08-30T18:38:14Z",
+                "open_issues": 19,
                 "owner": "aws",
                 "repo": "aws-sdk-php",
-                "stars": 6203,
+                "stars": 6202,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -918,7 +918,7 @@
                 "open_issues": 191,
                 "owner": "boto",
                 "repo": "boto3",
-                "stars": 9889,
+                "stars": 9892,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -945,7 +945,7 @@
                 "open_issues": 1117,
                 "owner": "boto",
                 "repo": "boto",
-                "stars": 6417,
+                "stars": 6416,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -966,7 +966,7 @@
                 "open_issues": 1117,
                 "owner": "boto",
                 "repo": "boto",
-                "stars": 6417,
+                "stars": 6416,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -1008,7 +1008,7 @@
                 "open_issues": 191,
                 "owner": "boto",
                 "repo": "boto3",
-                "stars": 9889,
+                "stars": 9892,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -1059,8 +1059,8 @@
                 "id": 66023605,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T17:55:29Z",
-                "open_issues": 149,
+                "last_commit": "2026-08-31T09:27:42Z",
+                "open_issues": 148,
                 "owner": "awsdocs",
                 "repo": "aws-doc-sdk-examples",
                 "stars": 10455,
@@ -1097,7 +1097,7 @@
                 "open_issues": 25,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
-                "stars": 3656,
+                "stars": 3657,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -1477,7 +1477,7 @@
                 "open_issues": 724,
                 "owner": "aws",
                 "repo": "aws-cli",
-                "stars": 17230,
+                "stars": 17232,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -1693,7 +1693,7 @@
                 "open_issues": 724,
                 "owner": "aws",
                 "repo": "aws-cli",
-                "stars": 17230,
+                "stars": 17232,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -1846,7 +1846,7 @@
                 "open_issues": 2,
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8984,
+                "stars": 8985,
                 "topics": [
                   "aws",
                   "aws-vault",
@@ -2026,8 +2026,8 @@
                 "id": 105808767,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T12:17:48Z",
-                "open_issues": 2853,
+                "last_commit": "2026-08-31T14:40:04Z",
+                "open_issues": 2855,
                 "owner": "aws",
                 "repo": "aws-cdk",
                 "stars": 12880,
@@ -2053,8 +2053,8 @@
                 "id": 129005655,
                 "language": "Python",
                 "license": "MIT-0",
-                "last_commit": "2026-08-30T09:26:40Z",
-                "open_issues": 81,
+                "last_commit": "2026-08-31T16:10:58Z",
+                "open_issues": 78,
                 "owner": "aws-cloudformation",
                 "repo": "cfn-lint",
                 "stars": 2640,
@@ -4228,7 +4228,7 @@
                 "open_issues": 54,
                 "owner": "kelseyhightower",
                 "repo": "kubernetes-the-hard-way",
-                "stars": 49587,
+                "stars": 49600,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -4245,8 +4245,8 @@
                 "id": 64654523,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T01:00:10Z",
-                "open_issues": 37,
+                "last_commit": "2026-08-31T07:27:20Z",
+                "open_issues": 38,
                 "owner": "openebs",
                 "repo": "openebs",
                 "stars": 9806,
@@ -4331,7 +4331,7 @@
                 "open_issues": 7,
                 "owner": "ConradIrwin",
                 "repo": "aws-name-server",
-                "stars": 559,
+                "stars": 558,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -4439,11 +4439,11 @@
                 "id": 27551774,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T00:08:26Z",
-                "open_issues": 22,
+                "last_commit": "2026-08-31T11:13:22Z",
+                "open_issues": 24,
                 "owner": "aws",
                 "repo": "amazon-ecs-agent",
-                "stars": 2175,
+                "stars": 2176,
                 "topics": [
                   "amazon-ec2",
                   "amazon-ecs-agent",
@@ -5608,7 +5608,7 @@
                 "open_issues": 493,
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11059,
+                "stars": 11060,
                 "topics": [
                   "aws",
                   "aws-apigateway",
@@ -5636,11 +5636,11 @@
                 "id": 92205085,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T23:32:26Z",
+                "last_commit": "2026-08-31T09:50:01Z",
                 "open_issues": 539,
                 "owner": "aws",
                 "repo": "aws-sam-cli",
-                "stars": 6732,
+                "stars": 6733,
                 "topics": [
                   "api-gateway",
                   "aws",
@@ -5757,7 +5757,7 @@
                 "id": 35844242,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T15:01:29Z",
+                "last_commit": "2026-08-31T17:10:52Z",
                 "open_issues": 69,
                 "owner": "aws",
                 "repo": "aws-lambda-java-libs",
@@ -5883,11 +5883,11 @@
                 "id": 34302698,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T18:26:45Z",
+                "last_commit": "2026-08-31T16:14:51Z",
                 "open_issues": 1216,
                 "owner": "serverless",
                 "repo": "serverless",
-                "stars": 46917,
+                "stars": 46919,
                 "topics": [
                   "aws",
                   "aws-dynamodb",
@@ -6923,7 +6923,7 @@
                 "open_issues": 68,
                 "owner": "awslabs",
                 "repo": "amazon-redshift-utils",
-                "stars": 2805,
+                "stars": 2803,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -6962,10 +6962,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-29T19:41:41Z",
-                "open_issues": 802,
+                "open_issues": 803,
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28767,
+                "stars": 28772,
                 "topics": [
                   "analytics",
                   "athena",
@@ -7125,7 +7125,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61376,
+                "stars": 61375,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -7155,11 +7155,11 @@
                 "id": 17803236,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-30T12:07:41Z",
-                "open_issues": 1243,
+                "last_commit": "2026-08-30T16:13:05Z",
+                "open_issues": 1244,
                 "owner": "rclone",
                 "repo": "rclone",
-                "stars": 59457,
+                "stars": 59478,
                 "topics": [
                   "azure-blob",
                   "azure-blob-storage",
@@ -7197,11 +7197,11 @@
                 "id": 94173064,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-27T11:20:04Z",
+                "last_commit": "2026-08-31T16:15:21Z",
                 "open_issues": 121,
                 "owner": "mickael-kerjean",
                 "repo": "filestash",
-                "stars": 14560,
+                "stars": 14566,
                 "topics": [
                   "archiving",
                   "azure",
@@ -7242,7 +7242,7 @@
                 "open_issues": 313,
                 "owner": "s3fs-fuse",
                 "repo": "s3fs-fuse",
-                "stars": 9976,
+                "stars": 9977,
                 "topics": [
                   "aws-s3",
                   "cloud-storage",
@@ -7270,7 +7270,7 @@
                 "open_issues": 293,
                 "owner": "kahing",
                 "repo": "goofys",
-                "stars": 5564,
+                "stars": 5565,
                 "topics": [
                   "aws-s3",
                   "azure-blob",
@@ -7337,7 +7337,7 @@
                 "open_issues": 190,
                 "owner": "peak",
                 "repo": "s5cmd",
-                "stars": 4173,
+                "stars": 4176,
                 "topics": [
                   "aws",
                   "cli",
@@ -7366,7 +7366,7 @@
                 "open_issues": 46,
                 "owner": "minio",
                 "repo": "mc",
-                "stars": 3522,
+                "stars": 3521,
                 "topics": [
                   "aws",
                   "aws-s3",
@@ -7895,7 +7895,7 @@
                 "open_issues": 33,
                 "owner": "drewblas",
                 "repo": "aws-ses",
-                "stars": 544,
+                "stars": 543,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -8156,8 +8156,8 @@
                 "id": 23578850,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-25T07:42:04Z",
-                "open_issues": 26,
+                "last_commit": "2026-08-31T15:43:39Z",
+                "open_issues": 25,
                 "owner": "ruby-shoryuken",
                 "repo": "shoryuken",
                 "stars": 2125,
@@ -8194,8 +8194,8 @@
                 "id": 172615836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T08:12:25Z",
-                "open_issues": 59,
+                "last_commit": "2026-08-31T14:15:54Z",
+                "open_issues": 53,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4119,
@@ -8240,7 +8240,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29334,
+                "stars": 29337,
                 "topics": [
                   "aws",
                   "big-data",
@@ -8351,7 +8351,7 @@
                 "open_issues": 1741,
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
-                "stars": 6054,
+                "stars": 6057,
                 "topics": [
                   "aws",
                   "azure",
@@ -8387,7 +8387,7 @@
                 "open_issues": 267,
                 "owner": "mitchellh",
                 "repo": "vagrant-aws",
-                "stars": 2587,
+                "stars": 2586,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -8518,11 +8518,11 @@
                 "id": 21287076,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T02:45:56Z",
-                "open_issues": 319,
+                "last_commit": "2026-08-31T08:09:35Z",
+                "open_issues": 320,
                 "owner": "aws",
                 "repo": "s2n-tls",
-                "stars": 4757,
+                "stars": 4759,
                 "topics": [
                   "c",
                   "c99",
@@ -8615,7 +8615,7 @@
                 "open_issues": 75,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30366,
+                "stars": 30364,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -8644,11 +8644,11 @@
                 "id": 224386599,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T07:04:12Z",
-                "open_issues": 166,
+                "last_commit": "2026-08-30T23:03:04Z",
+                "open_issues": 167,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 8976,
+                "stars": 8975,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -8714,11 +8714,11 @@
                 "id": 38255391,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-28T11:32:15Z",
-                "open_issues": 214,
+                "last_commit": "2026-08-31T10:18:57Z",
+                "open_issues": 215,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3769,
+                "stars": 3772,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -9432,7 +9432,7 @@
                 "open_issues": 0,
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65143,
+                "stars": 65141,
                 "topics": [
                   "aws",
                   "cloud",
@@ -9461,7 +9461,7 @@
                 "open_issues": 34,
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17096,
+                "stars": 17098,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -9482,7 +9482,7 @@
                 "open_issues": 13,
                 "owner": "Netflix",
                 "repo": "zuul",
-                "stars": 14063,
+                "stars": 14065,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -9520,11 +9520,11 @@
                 "id": 21436816,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T15:57:59Z",
-                "open_issues": 102,
+                "last_commit": "2026-08-31T15:53:29Z",
+                "open_issues": 105,
                 "owner": "spinnaker",
                 "repo": "spinnaker",
-                "stars": 9780,
+                "stars": 9781,
                 "topics": [
                   "continuous-delivery",
                   "continuous-deployment",
@@ -9546,10 +9546,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:29:40Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "getmoto",
                 "repo": "moto",
-                "stars": 8634,
+                "stars": 8636,
                 "topics": [
                   "aws",
                   "boto",
@@ -9669,7 +9669,7 @@
                 "open_issues": 216,
                 "owner": "Netflix",
                 "repo": "ribbon",
-                "stars": 4615,
+                "stars": 4616,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -9802,7 +9802,7 @@
                 "open_issues": 15,
                 "owner": "Netflix",
                 "repo": "asgard",
-                "stars": 2228,
+                "stars": 2227,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -10338,7 +10338,7 @@
                 "open_issues": 152,
                 "owner": "kilimchoi",
                 "repo": "engineering-blogs",
-                "stars": 38556,
+                "stars": 38559,
                 "topics": [
                   "engineering-blogs",
                   "lists",
@@ -10457,7 +10457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:19:26.526Z",
+    "last_updated": "2026-08-31T17:59:11.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
