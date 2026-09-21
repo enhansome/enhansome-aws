@@ -8,7 +8,7 @@
 
 A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,099 | 🐛 106 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,528 | 🐛 106 | 📅 2026-09-02 list.
 
 ## The Fiery Meter of AWSome
 
@@ -18,21 +18,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,099 |
 * Repo with 1000+ Stars: :fire::fire::fire::fire:
 * Repo with 2000+ Stars: :fire::fire::fire::fire::fire:
 
-Repos not on `The Fiery Meter of AWSome` can still be awesome, see [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12.
+Repos not on `The Fiery Meter of AWSome` can still be awesome, see [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12.
 
 ### `awesome-aws` Python Module
 
 [![Build Status](https://travis-ci.org/donnemartin/awesome-aws.svg?branch=master)](https://travis-ci.org/donnemartin/awesome-aws) [![Codecov](https://img.shields.io/codecov/c/github/donnemartin/awesome-aws.svg)](https://codecov.io/github/donnemartin/awesome-aws) [![PyPI version](https://badge.fury.io/py/awesome-aws.svg)](http://badge.fury.io/py/awesome-aws)
 
-The Python module [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/master/awesome) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12 regularly scans repos on [Awesome AWS](https://github.com/donnemartin/awesome-aws) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12 to maintain the accuracy of the `Fiery Meter of AWSome`.
+The Python module [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/master/awesome) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12 regularly scans repos on [Awesome AWS](https://github.com/donnemartin/awesome-aws) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12 to maintain the accuracy of the `Fiery Meter of AWSome`.
 
 ## Contributing
 
 Contributions are welcome!
 
-Review the [Contributing Guidelines](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12.
+Review the [Contributing Guidelines](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12.
 
-Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issues/34) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12.
+Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issues/34) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12.
 
 ## Index
 
@@ -155,7 +155,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 
 ### C++ SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/awslabs/aws-sdk-cpp) ⭐ 2,208 | 🐛 99 | 🌐 C++ | 📅 2026-09-18
+* [Repo :fire::fire::fire::fire:](https://github.com/awslabs/aws-sdk-cpp) ⭐ 2,208 | 🐛 100 | 🌐 C++ | 📅 2026-09-21
 * [Blog with Samples](https://aws.amazon.com/blogs/aws/introducing-the-aws-sdk-for-c/)
 
 *The C++ SDK is a labs project with limited docs and/or samples.*
@@ -215,7 +215,7 @@ Related Repos:
 
 Related Repos:
 
-* [aws/aws-amplify :fire::fire::fire::fire::fire:](https://github.com/aws/aws-amplify) ⭐ 9,561 | 🐛 511 | 🌐 TypeScript | 📅 2026-09-18
+* [aws/aws-amplify :fire::fire::fire::fire::fire:](https://github.com/aws/aws-amplify) ⭐ 9,560 | 🐛 511 | 🌐 TypeScript | 📅 2026-09-21
 * [mirkokiefer/aws-lib :fire::fire::fire:](https://github.com/mirkokiefer/aws-lib) ⭐ 681 | 🐛 32 | 🌐 JavaScript | 📅 2017-05-03
 * [chilts/awssum :fire::fire:](https://github.com/chilts/awssum) ⚠️ Archived
 * [SaltwaterC/aws2js :fire::fire:](https://github.com/SaltwaterC/aws2js) ⭐ 239 | 🐛 17 | 🌐 JavaScript | 📅 2020-05-01
@@ -243,7 +243,7 @@ Related Repos:
 
 ### PHP SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php) ⭐ 6,206 | 🐛 20 | 🌐 PHP | 📅 2026-09-18
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php) ⭐ 6,206 | 🐛 21 | 🌐 PHP | 📅 2026-09-18
 * [Repo with Samples](https://github.com/awslabs/aws-php-sample) ⚠️ Archived
 * [Install](http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-php/)
@@ -257,7 +257,7 @@ Related Repos:
 
 ### Python SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/boto/boto3) ⭐ 9,904 | 🐛 201 | 🌐 Python | 📅 2026-09-18
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/boto/boto3) ⭐ 9,905 | 🐛 201 | 🌐 Python | 📅 2026-09-18
 * [Install](http://github.com/boto/boto#installation) ⚠️ Archived
 * [Learn More](http://github.com/boto/boto/blob/develop/README.rst#boto) ⚠️ Archived
 * [Repo with Samples :fire:](https://github.com/awslabs/aws-python-sample) ⚠️ Archived
@@ -265,13 +265,13 @@ Related Repos:
 
 Related Repos:
 
-* [boto3 :fire::fire::fire::fire::fire:](https://github.com/boto/boto3) ⭐ 9,904 | 🐛 201 | 🌐 Python | 📅 2026-09-18
-* [botocore :fire::fire::fire::fire:](https://github.com/boto/botocore) ⭐ 1,644 | 🐛 197 | 🌐 Python | 📅 2026-09-18
+* [boto3 :fire::fire::fire::fire::fire:](https://github.com/boto/boto3) ⭐ 9,905 | 🐛 201 | 🌐 Python | 📅 2026-09-18
+* [botocore :fire::fire::fire::fire:](https://github.com/boto/botocore) ⭐ 1,643 | 🐛 198 | 🌐 Python | 📅 2026-09-21
 
 ### Ruby SDK
 
-* [Samples :fire::fire::fire::fire::fire:](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/) ⭐ 10,465 | 🐛 153 | 🌐 Java | 📅 2026-09-09
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ruby) ⭐ 3,656 | 🐛 28 | 🌐 Ruby | 📅 2026-09-18
+* [Samples :fire::fire::fire::fire::fire:](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/) ⭐ 10,466 | 🐛 153 | 🌐 Java | 📅 2026-09-09
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ruby) ⭐ 3,657 | 🐛 30 | 🌐 Ruby | 📅 2026-09-21
 * [Repo with S3 Sample](https://github.com/awslabs/aws-ruby-sample) ⚠️ Archived
 * [Install](http://docs.aws.amazon.com/sdk-for-ruby/v3/developer-guide/setup-install.html)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-ruby/)
@@ -318,7 +318,7 @@ Related Repos:
 ### .NET SDK
 
 * [Samples :fire:](https://github.com/awslabs/aws-sdk-net-samples) ⚠️ Archived
-* [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-net) ⭐ 142 | 🐛 27 | 🌐 C# | 📅 2026-09-19
+* [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-net) ⭐ 142 | 🐛 27 | 🌐 C# | 📅 2026-09-21
 * [Repo with Samples](https://github.com/awslabs/aws-auto-scaling-console-sample) ⚠️ Archived
 * [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-net/)
@@ -336,7 +336,7 @@ Related Repos:
 
 ### Universal Command Line Interface
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) ⭐ 17,267 | 🐛 739 | 🌐 Python | 📅 2026-09-18
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) ⭐ 17,270 | 🐛 741 | 🌐 Python | 📅 2026-09-21
 * [Install](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html)
 * [Docs](https://aws.amazon.com/documentation/cli/)
 * [Learn More](https://aws.amazon.com/cli/)
@@ -376,7 +376,7 @@ Related Repos:
 
 ## Open Source Repos
 
-*AWS and community open source projects, grouped by service.  See [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12 for more details.*
+*AWS and community open source projects, grouped by service.  See [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12 for more details.*
 
 <br/>
 <p align="center">
@@ -394,13 +394,13 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### CLI
 
 AWS Repos:
 
-* [aws-cli :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) ⭐ 17,267 | 🐛 739 | 🌐 Python | 📅 2026-09-18 - Universal Command Line Interface.
+* [aws-cli :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) ⭐ 17,270 | 🐛 741 | 🌐 Python | 📅 2026-09-21 - Universal Command Line Interface.
 * [aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell) ⭐ 7,333 | 🐛 98 | 🌐 Python | 📅 2024-12-16
 * [amazon-ecs-cli :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-cli) ⚠️ Archived - ECS CLI using the same Docker Compose file format and familiar Compose commands.
 * [awscli-aliases :fire::fire:](https://github.com/awslabs/awscli-aliases) ⭐ 485 | 🐛 23 | 📅 2022-03-17 - Repository for AWS CLI aliases.
@@ -420,16 +420,16 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-cdk :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cdk) ⭐ 12,905 | 🐛 2,863 | 🌐 TypeScript | 📅 2026-09-18 - Framework for defining cloud infrastructure in code.
-* [cfn-python-lint :fire::fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) ⭐ 2,641 | 🐛 78 | 🌐 Python | 📅 2026-09-19 - A tool for linting/validating CloudFormation.
-* [cfncluster :fire::fire::fire:](https://github.com/awslabs/cfncluster) ⭐ 888 | 🐛 171 | 🌐 Python | 📅 2026-09-18 - Framework that deploys and maintains HPC clusters.
-* [cfncluster-cookbook](https://github.com/awslabs/cfncluster-cookbook) ⭐ 116 | 🐛 23 | 🌐 Ruby | 📅 2026-09-14 - Sample Cookbook.
+* [aws-cdk :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cdk) ⭐ 12,906 | 🐛 2,870 | 🌐 TypeScript | 📅 2026-09-21 - Framework for defining cloud infrastructure in code.
+* [cfn-python-lint :fire::fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) ⭐ 2,640 | 🐛 80 | 🌐 Python | 📅 2026-09-21 - A tool for linting/validating CloudFormation.
+* [cfncluster :fire::fire::fire:](https://github.com/awslabs/cfncluster) ⭐ 889 | 🐛 172 | 🌐 Python | 📅 2026-09-18 - Framework that deploys and maintains HPC clusters.
+* [cfncluster-cookbook](https://github.com/awslabs/cfncluster-cookbook) ⭐ 116 | 🐛 24 | 🌐 Ruby | 📅 2026-09-14 - Sample Cookbook.
 * [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) ⚠️ Archived - Custom resource examples.
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) ⚠️ Archived - Custom resource framework.
 
 Community Repos:
 
-* [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) ⭐ 4,944 | 🐛 163 | 🌐 Python | 📅 2026-09-19 - Python library to create descriptions.
+* [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) ⭐ 4,944 | 🐛 162 | 🌐 Python | 📅 2026-09-20 - Python library to create descriptions.
 * [cloudreach/sceptre :fire::fire::fire::fire:](https://github.com/cloudreach/sceptre) ⭐ 1,533 | 🐛 26 | 🌐 Python | 📅 2026-09-07 - A CLI tool for automating CloudFormation.
 * [Stelligent/cfn\_nag :fire::fire::fire::fire:](https://github.com/stelligent/cfn_nag) ⭐ 1,310 | 🐛 84 | 🌐 Ruby | 📅 2024-08-01 - Linting tool for CloudFormation templates
 * [envato/stack\_master :fire::fire:](https://github.com/envato/stack_master) ⭐ 294 | 🐛 24 | 🌐 Ruby | 📅 2026-08-10 - A CLI tool to manage CloudFormation stacks.
@@ -448,7 +448,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### CloudTrail
 
@@ -485,7 +485,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### Code Pipeline
 
@@ -500,7 +500,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### Cognito
 
@@ -527,7 +527,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### Device Farm
 
@@ -541,7 +541,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### DynamoDB
 
@@ -598,12 +598,12 @@ Community Repos:
 
 AWS Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 Community Repos:
 
-* [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:](https://github.com/kelseyhightower/kubernetes-the-hard-way) ⭐ 49,795 | 🐛 55 | 📅 2025-04-10 - Bootstrap Kubernetes the hard way on EC2. No scripts.
-* [openebs/openebs :fire::fire::fire::fire::fire:](https://github.com/openebs/openebs) ⭐ 9,815 | 🐛 37 | 📅 2026-09-20 - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
+* [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:](https://github.com/kelseyhightower/kubernetes-the-hard-way) ⭐ 49,812 | 🐛 55 | 📅 2025-04-10 - Bootstrap Kubernetes the hard way on EC2. No scripts.
+* [openebs/openebs :fire::fire::fire::fire::fire:](https://github.com/openebs/openebs) ⭐ 9,815 | 🐛 37 | 📅 2026-09-21 - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
 * [cristim/autospotting :fire::fire::fire::fire::fire:](https://github.com/autospotting/autospotting) ⭐ 2,371 | 🐛 45 | 🌐 Go | 📅 2026-03-03 - Automatically rolling-replace on-demand EC2 instances in AutoScaling groups with compatible spot instances.
 * [ConradIrwin/aws-name-server :fire::fire::fire:](https://github.com/ConradIrwin/aws-name-server) ⭐ 558 | 🐛 7 | 🌐 Go | 📅 2016-08-08 - DNS server that lets you look up instances by name.
 * [alestic/ec2-consistent-snapshot :fire::fire:](https://github.com/alestic/ec2-consistent-snapshot) ⭐ 435 | 🐛 0 | 🌐 Perl | 📅 2020-06-18 - Initiate consistent EBS snapshots in EC2.
@@ -616,7 +616,7 @@ Community Repos:
 
 AWS Repos:
 
-* [amazon-ecs-agent :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-agent) ⭐ 2,179 | 🐛 21 | 🌐 Go | 📅 2026-09-18 - Agent that runs on and starts containers.
+* [amazon-ecs-agent :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-agent) ⭐ 2,180 | 🐛 23 | 🌐 Go | 📅 2026-09-21 - Agent that runs on and starts containers.
 * [blox :fire::fire::fire:](https://github.com/blox/blox) ⚠️ Archived - Open source tools for building custom schedulers on ECS.
 * [ecs-refarch-continuous-deployment :fire::fire::fire:](https://github.com/awslabs/ecs-refarch-continuous-deployment) ⚠️ Archived - Reference Architecture for continuous deployment to ECS using CodePipeline.
 * [ecs-blue-green-deployment :fire::fire:](https://github.com/awslabs/ecs-blue-green-deployment) ⚠️ Archived - Blue-green deployment on ECS.
@@ -643,7 +643,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### Elastic MapReduce
 
@@ -678,7 +678,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### Glacier
 
@@ -690,7 +690,7 @@ Community Repos:
 
 AWS Repos:
 
-* [amazon-kinesis-client :fire::fire::fire:](https://github.com/awslabs/amazon-kinesis-client) ⭐ 668 | 🐛 338 | 🌐 Java | 📅 2026-09-16 Client library for Amazon Kinesis.
+* [amazon-kinesis-client :fire::fire::fire:](https://github.com/awslabs/amazon-kinesis-client) ⭐ 668 | 🐛 338 | 🌐 Java | 📅 2026-09-21 Client library for Amazon Kinesis.
 * [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) ⭐ 416 | 🐛 180 | 🌐 C++ | 📅 2026-09-16 - Producer Library.
 * [amazon-kinesis-client-python :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-python) ⭐ 377 | 🐛 93 | 🌐 Python | 📅 2026-09-04 - Client Library for Python.
 * [amazon-kinesis-scaling-utils :fire::fire:](https://github.com/awslabs/amazon-kinesis-scaling-utils) ⭐ 335 | 🐛 18 | 🌐 Java | 📅 2023-12-05 - Provides the ability to scale streams.
@@ -710,14 +710,14 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### Lambda
 
 AWS Repos:
 
-* [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) ⭐ 11,057 | 🐛 495 | 🌐 Python | 📅 2026-09-11 - Python Serverless Microframework.
-* [awslabs/aws-sam-local :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-sam-local) ⭐ 6,733 | 🐛 539 | 🌐 Python | 📅 2026-09-18 - CLI tool for local development and testing of Serverless applications.
+* [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) ⭐ 11,057 | 🐛 498 | 🌐 Python | 📅 2026-09-11 - Python Serverless Microframework.
+* [awslabs/aws-sam-local :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-sam-local) ⭐ 6,733 | 🐛 540 | 🌐 Python | 📅 2026-09-21 - CLI tool for local development and testing of Serverless applications.
 * [aws-lambda-go :fire::fire::fire::fire::fire:](https://github.com/aws/aws-lambda-go) ⭐ 3,799 | 🐛 118 | 🌐 Go | 📅 2026-09-18 - Libraries, samples and tools to help Go developers develop Lambda functions.
 * [lambda-refarch-webapp :fire::fire::fire::fire:](https://github.com/awslabs/lambda-refarch-webapp) ⚠️ Archived - Reference Architecture for creating a Web Application.
 * [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) ⭐ 595 | 🐛 60 | 🌐 JavaScript | 📅 2024-07-16 - Redshift loader.
@@ -731,9 +731,9 @@ AWS Repos:
 
 Community Repos:
 
-* [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) ⭐ 46,919 | 🐛 1,219 | 🌐 JavaScript | 📅 2026-09-17 The Serverless Application Framework (formerly JAWS).
+* [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) ⭐ 46,920 | 🐛 1,219 | 🌐 JavaScript | 📅 2026-09-17 The Serverless Application Framework (formerly JAWS).
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) ⚠️ Archived - Automate Chrome through Lambda.
-* [Miserlou/Zappa :fire::fire::fire::fire::fire:](https://github.com/Miserlou/Zappa) ⭐ 11,820 | 🐛 686 | 🌐 Python | 📅 2023-03-23 - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
+* [Miserlou/Zappa :fire::fire::fire::fire::fire:](https://github.com/Miserlou/Zappa) ⭐ 11,819 | 🐛 686 | 🌐 Python | 📅 2023-03-23 - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
 * [lambci/lambci :fire::fire::fire::fire::fire:](https://github.com/lambci/lambci) ⭐ 3,963 | 🐛 41 | 🌐 Shell | 📅 2024-04-23 - A continuous integration system built on Lambda.
 * [claudiajs/claudia :fire::fire::fire::fire::fire:](https://github.com/claudiajs/claudia) ⭐ 3,882 | 🐛 27 | 🌐 JavaScript | 📅 2026-05-03 - Deploy Node.js projects to Lambda and API Gateway easily.
 * [jorgebastida/gordon :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/gordon) ⭐ 2,027 | 🐛 65 | 🌐 Python | 📅 2019-04-11 - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
@@ -764,7 +764,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### Mobile Analytics
 
@@ -774,7 +774,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### OpsWorks
 
@@ -796,7 +796,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### Redshift
 
@@ -807,7 +807,7 @@ AWS Repos:
 
 Community Repos:
 
-* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/) ⭐ 28,803 | 🐛 806 | 🌐 Python | 📅 2026-09-03 - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it.
+* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/) ⭐ 28,807 | 🐛 806 | 🌐 Python | 📅 2026-09-03 - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it.
 * [everythingMe/redshift\_console](https://github.com/EverythingMe/redshift_console) ⭐ 92 | 🐛 14 | 🌐 JavaScript | 📅 2015-10-26 -  A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
 * [Lumoslabs/aleph](https://github.com/lumoslabs/aleph) ⚠️ Archived - A full featured web application for writing and running Redshift
   queries. Supports revision tracking of queries and has basic visualization support.
@@ -828,12 +828,12 @@ Community Repos:
 Community Repos:
 
 * [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) ⚠️ Archived - Object storage server compatible with S3.
-* [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) ⭐ 59,860 | 🐛 1,279 | 🌐 Go | 📅 2026-09-20 - Rsync for various cloud storage providers such as S3.
-* [mickael-kerjean/filestash :fire::fire::fire::fire::fire:](https://github.com/mickael-kerjean/filestash) ⭐ 14,702 | 🐛 126 | 🌐 Go | 📅 2026-09-17 - A modern web client for S3.
+* [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) ⭐ 59,879 | 🐛 1,274 | 🌐 Go | 📅 2026-09-21 - Rsync for various cloud storage providers such as S3.
+* [mickael-kerjean/filestash :fire::fire::fire::fire::fire:](https://github.com/mickael-kerjean/filestash) ⭐ 14,703 | 🐛 128 | 🌐 Go | 📅 2026-09-21 - A modern web client for S3.
 * [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire:](https://github.com/s3fs-fuse/s3fs-fuse) ⭐ 9,993 | 🐛 313 | 🌐 C++ | 📅 2026-09-13 - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
 * [kahing/goofys :fire::fire::fire::fire::fire:](https://github.com/kahing/goofys) ⭐ 5,565 | 🐛 293 | 🌐 Go | 📅 2024-07-18 -  a Filey System for Amazon S3 written in Go.
 * [s3tools/s3cmd :fire::fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) ⭐ 4,907 | 🐛 311 | 🌐 Python | 📅 2025-10-22 - CLI for managing S3 and CloudFront.
-* [peak/s5cmd :fire::fire::fire:](https://github.com/peak/s5cmd) ⭐ 4,190 | 🐛 200 | 🌐 Go | 📅 2025-06-13 - Fast S3 and local filesystem execution tool with wildcard and batch command support.
+* [peak/s5cmd :fire::fire::fire:](https://github.com/peak/s5cmd) ⭐ 4,192 | 🐛 200 | 🌐 Go | 📅 2025-06-13 - Fast S3 and local filesystem execution tool with wildcard and batch command support.
 * [minio/mc :fire::fire::fire::fire::fire:](https://github.com/minio/mc) ⚠️ Archived -  Minio Client for filesystem and cloud storage.
 * [jubos/fake-s3 :fire::fire::fire::fire::fire:](https://github.com/jubos/fake-s3) ⚠️ Archived - Lightweight S3 clone that simulates most commands.
 * [s3git/s3git :fire::fire::fire::fire:](https://github.com/s3git/s3git) ⭐ 1,460 | 🐛 20 | 🌐 Go | 📅 2016-08-02 - CLI tool that allows you to create a distributed, decentralized and versioned repository.
@@ -842,7 +842,7 @@ Community Repos:
 * [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) ⭐ 1,059 | 🐛 3 | 🌐 JavaScript | 📅 2017-05-17 - Batch functions with concurrency control (each, map, reduce, filter, join)
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) ⭐ 771 | 🐛 84 | 🌐 Ruby | 📅 2022-05-31 - Ruby implementation of Amazon's S3 REST API.
 * [danilop/yas3fs :fire::fire::fire:](https://github.com/danilop/yas3fs) ⭐ 660 | 🐛 75 | 🌐 Python | 📅 2026-04-25 - Yet Another S3-backed File System, inspired by s3fs.
-* [waynehoover/s3\_direct\_upload :fire::fire::fire:](https://github.com/waynehoover/s3_direct_upload) ⭐ 655 | 🐛 106 | 🌐 Ruby | 📅 2023-09-25 - Direct Upload to Amazon S3 With CORS
+* [waynehoover/s3\_direct\_upload :fire::fire::fire:](https://github.com/waynehoover/s3_direct_upload) ⭐ 655 | 🐛 107 | 🌐 Ruby | 📅 2023-09-25 - Direct Upload to Amazon S3 With CORS
 * [CulturalMe/meteor-slingshot :fire::fire::fire:](https://github.com/CulturalMe/meteor-slingshot) ⭐ 589 | 🐛 105 | 🌐 JavaScript | 📅 2023-10-04 - Upload files in meteor.
 * [anomalizer/ngx\_aws\_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) ⭐ 475 | 🐛 41 | 🌐 C | 📅 2025-08-09 - Implements proxying of authenticated requests.
 * [sorentwo/carrierwave-aws :fire::fire:](https://github.com/sorentwo/carrierwave-aws) ⭐ 416 | 🐛 11 | 🌐 Ruby | 📅 2026-06-22 - Adapter for CarrierWave.
@@ -875,7 +875,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### SimpleDB
 
@@ -891,7 +891,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### SQS
 
@@ -920,7 +920,7 @@ Community Repos:
 
 Community Repos:
 
-* [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,067 | 🐛 1,745 | 🌐 Python | 📅 2026-09-17 - Rules engine for management, DSL in yaml for query, filter, and actions on resources.
+* [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,067 | 🐛 1,747 | 🌐 Python | 📅 2026-09-17 - Rules engine for management, DSL in yaml for query, filter, and actions on resources.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) ⚠️ Archived - Use Vagrant to manage your EC2 and VPC instances.
 * [NixOS/nixops :fire::fire::fire::fire:](https://github.com/NixOS/nixops) ⭐ 2,200 | 🐛 327 | 🌐 Python | 📅 2025-12-28 - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) ⭐ 1,333 | 🐛 60 | 🌐 Shell | 📅 2019-05-01 - Tools for managing resources including EC2, EBS, RDS and Route53.
@@ -931,15 +931,15 @@ Community Repos:
 
 AWS Repos:
 
-* [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) ⭐ 4,765 | 🐛 306 | 🌐 C | 📅 2026-09-19 - An implementation of the TLS/SSL protocols.
+* [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) ⭐ 4,765 | 🐛 306 | 🌐 C | 📅 2026-09-21 - An implementation of the TLS/SSL protocols.
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) ⚠️ Archived - Token Vending Machine for Identity Registration.
 * [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) ⚠️ Archived - Token Vending Machine for Anonymous Registration.
 * [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) ⚠️ Archived - SHA256 Agent Compatibility Ccanner.
 
 Community Repos:
 
-* [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) ⭐ 30,387 | 🐛 77 | 🌐 Python | 📅 2026-09-09 - Set up a personal IPSEC VPN on EC2 and other cloud services.
-* [bridgecrewio/checkov :fire::fire::fire::fire::fire:](https://github.com/bridgecrewio/checkov) ⭐ 9,016 | 🐛 171 | 🌐 Python | 📅 2026-09-17 - Terraform static analysis, verifies security best practices.
+* [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) ⭐ 30,390 | 🐛 77 | 🌐 Python | 📅 2026-09-09 - Set up a personal IPSEC VPN on EC2 and other cloud services.
+* [bridgecrewio/checkov :fire::fire::fire::fire::fire:](https://github.com/bridgecrewio/checkov) ⭐ 9,018 | 🐛 171 | 🌐 Python | 📅 2026-09-17 - Terraform static analysis, verifies security best practices.
 * [Netflix/security\_monkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/security_monkey) ⚠️ Archived - Monitors policy changes and alerts on insecure configurations.
 * [cloudsploit/scans :fire::fire::fire::fire:](https://github.com/cloudsploit/scans) ⭐ 3,776 | 🐛 212 | 🌐 JavaScript | 📅 2026-09-07 - Detects security risks.
 * [Netflix/bless :fire::fire::fire::fire::fire:](https://github.com/Netflix/bless) ⭐ 2,758 | 🐛 17 | 🌐 Python | 📅 2024-08-16 - SSH Certificate Authority that runs as a Lambda function.
@@ -958,7 +958,7 @@ AWS Repos:
 
 *Repos Accompanying Blogs, Training Events, and Conferences.*
 
-* [aws-spot-labs :fire::fire::fire:](https://github.com/awslabs/aws-spot-labs) ⭐ 982 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-07-07 - Best practices using AWS Spot Instances.
+* [aws-spot-labs :fire::fire::fire:](https://github.com/awslabs/aws-spot-labs) ⭐ 983 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-07-07 - Best practices using AWS Spot Instances.
 * [aws-big-data-blog :fire::fire::fire:](https://github.com/awslabs/aws-big-data-blog) ⚠️ Archived - Samples from the AWS Big Data Blog.
 * [aws-arch-backoff-simulator :fire:](https://github.com/awslabs/aws-arch-backoff-simulator) ⭐ 262 | 🐛 2 | 🌐 Python | 📅 2023-08-02 - Jitter and backoff Simulator for AWS architecture blog.
 * [railsconf2013-tech-demo :fire:](https://github.com/awslabs/railsconf2013-tech-demo) ⚠️ Archived - Seahorse demo from RailsConf 2013.
@@ -977,7 +977,7 @@ AWS Repos:
 
 Community Repos:
 
-* [startup-class/setup :fire::fire:](https://github.com/startup-class/setup) ⭐ 295 | 🐛 3 | 🌐 Shell | 📅 2017-04-25 -  EC2 setup files for Startup Engineering MOOC.
+* [startup-class/setup :fire::fire:](https://github.com/startup-class/setup) ⭐ 294 | 🐛 3 | 🌐 Shell | 📅 2017-04-25 -  EC2 setup files for Startup Engineering MOOC.
 
 ### Miscellaneous Repos
 
@@ -992,15 +992,15 @@ AWS Repos:
 Community Repos:
 
 * [localstack/localstack :fire::fire::fire::fire::fire:](https://github.com/localstack/localstack) ⚠️ Archived - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
-* [Netflix/chaosmonkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/chaosmonkey) ⭐ 17,138 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - Resiliency tool that helps applications tolerate random instance failures.
-* [Netflix/zuul :fire::fire::fire::fire::fire:](https://github.com/Netflix/zuul) ⭐ 14,082 | 🐛 17 | 🌐 Java | 📅 2026-09-18 - Edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+* [Netflix/chaosmonkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/chaosmonkey) ⭐ 17,141 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - Resiliency tool that helps applications tolerate random instance failures.
+* [Netflix/zuul :fire::fire::fire::fire::fire:](https://github.com/Netflix/zuul) ⭐ 14,083 | 🐛 16 | 🌐 Java | 📅 2026-09-18 - Edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 * [Netflix/eureka :fire::fire::fire::fire::fire:](https://github.com/Netflix/eureka) ⭐ 12,744 | 🐛 140 | 🌐 Java | 📅 2026-08-24 - Service registry for resilient mid-tier load balancing and failover.
-* [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) ⭐ 9,792 | 🐛 106 | 🌐 Java | 📅 2026-09-19 - Successor to asgard supporting pipelines and more.
-* [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) ⭐ 8,664 | 🐛 66 | 🌐 Python | 📅 2026-09-15 - Allows your python tests to easily mock out the boto library.
+* [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) ⭐ 9,792 | 🐛 102 | 🌐 Java | 📅 2026-09-21 - Successor to asgard supporting pipelines and more.
+* [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) ⭐ 8,665 | 🐛 63 | 🌐 Python | 📅 2026-09-21 - Allows your python tests to easily mock out the boto library.
 * [Netflix/SimianArmy :fire::fire::fire::fire::fire:](https://github.com/Netflix/SimianArmy) ⚠️ Archived - Tools to keep your cloud operating in top form.
 * [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) ⭐ 7,034 | 🐛 59 | 🌐 Scala | 📅 2026-06-26 - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
-* [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) ⭐ 6,268 | 🐛 36 | 🌐 Python | 📅 2023-02-27 - Mac setup of various developer tools and AWS services.
-* [Netflix/ribbon :fire::fire::fire::fire::fire:](https://github.com/Netflix/ribbon) ⭐ 4,616 | 🐛 217 | 🌐 Java | 📅 2025-12-17 - Remote procedure call library with built in software load balancers.
+* [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) ⭐ 6,267 | 🐛 36 | 🌐 Python | 📅 2023-02-27 - Mac setup of various developer tools and AWS services.
+* [Netflix/ribbon :fire::fire::fire::fire::fire:](https://github.com/Netflix/ribbon) ⭐ 4,617 | 🐛 217 | 🌐 Java | 📅 2025-12-17 - Remote procedure call library with built in software load balancers.
 * [dtan4/terraforming :fire::fire::fire::fire::fire:](https://github.com/dtan4/terraforming) ⚠️ Archived - Export existing resources to Terraform style (tf, tfstate).
 * [Netflix/ice :fire::fire::fire::fire::fire:](https://github.com/Netflix/ice) ⭐ 2,875 | 🐛 104 | 🌐 Java | 📅 2022-10-07 - Usage and cost monitoring tool.
 * [Netflix/archaius :fire::fire::fire::fire::fire:](https://github.com/Netflix/archaius) ⭐ 2,497 | 🐛 40 | 🌐 Java | 📅 2026-07-29 - Library for configuration management API.
@@ -1052,7 +1052,7 @@ AWS Guides:
 
 Community Guides:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### General Guides
 
@@ -1068,7 +1068,7 @@ AWS Guides:
 
 Community Guides:
 
-* [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws) ⭐ 36,470 | 🐛 159 | 🌐 Shell | 📅 2024-08-16
+* [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws) ⭐ 36,468 | 🐛 159 | 🌐 Shell | 📅 2024-08-16
 
 ### Books
 
@@ -1174,7 +1174,7 @@ AWS Blogs:
 
 Community Blogs:
 
-* [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,679 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
+* [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,682 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
 * [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels, AWS CTO.
 * [Things I Like...](http://jeff-barr.com/) - Jeff Barr, AWS Chief Evangelist.
 * [Netflix Tech Blog](http://techblog.netflix.com/)
@@ -1215,7 +1215,7 @@ AWS Pages:
 
 Community Pages:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ### YouTube Channels
 
@@ -1266,7 +1266,7 @@ AWS Conferences:
 
 Community Conferences:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12
 
 ## Latest KPIs and Stats
 
@@ -1439,11 +1439,11 @@ Community Conferences:
 
 ## Credits
 
-Check out the [Credits page](https://github.com/donnemartin/awesome-aws/blob/master/CREDITS.md) ⭐ 14,146 | 🐛 103 | 🌐 Python | 📅 2024-03-12.
+Check out the [Credits page](https://github.com/donnemartin/awesome-aws/blob/master/CREDITS.md) ⭐ 14,147 | 🐛 103 | 🌐 Python | 📅 2024-03-12.
 
 ## Other Awesome Lists
 
-Other awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,099 | 🐛 106 | 📅 2026-09-02 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,680 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
+Other awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,528 | 🐛 106 | 📅 2026-09-02 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,679 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
 
 ## Contact Info
 
@@ -1465,4 +1465,4 @@ http://creativecommons.org/licenses/by/4.0/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
