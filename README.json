@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire:",
-              "description": null,
+              "description": "aws-amplify/aws-sdk-android",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Repo with Samples :fire::fire::fire:",
-              "description": null,
+              "description": "awslabs/aws-sdk-android-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -68,7 +68,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-sdk-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -77,8 +77,8 @@
                 "id": 35440404,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:32:02Z",
-                "open_issues": 82,
+                "last_commit": "2026-10-02T20:01:26Z",
+                "open_issues": 81,
                 "owner": "aws",
                 "repo": "aws-sdk-cpp",
                 "stars": 2209,
@@ -100,7 +100,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire:",
-              "description": null,
+              "description": "mcohen01/amazonica",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -121,7 +121,7 @@
             {
               "node_type": "item",
               "title": "Install",
-              "description": null,
+              "description": "mcohen01/amazonica",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -142,7 +142,7 @@
             {
               "node_type": "item",
               "title": "mcohen01/amazonica",
-              "description": null,
+              "description": "mcohen01/amazonica",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -170,7 +170,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-sdk-go",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -195,7 +195,7 @@
             {
               "node_type": "item",
               "title": "Install",
-              "description": null,
+              "description": "aws/aws-sdk-go",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -220,7 +220,7 @@
             {
               "node_type": "item",
               "title": "goamz/goamz :fire::fire:",
-              "description": null,
+              "description": "goamz/goamz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -248,7 +248,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws-amplify/aws-sdk-ios",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -276,7 +276,7 @@
             {
               "node_type": "item",
               "title": "Repo with Samples :fire::fire::fire::fire:",
-              "description": null,
+              "description": "awslabs/aws-sdk-ios-samples",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -307,7 +307,7 @@
             {
               "node_type": "item",
               "title": "Repo for C :fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-iot-device-sdk-embedded-C",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -330,7 +330,7 @@
             {
               "node_type": "item",
               "title": "Repo for JavaScript :fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-iot-device-sdk-js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -351,7 +351,7 @@
             {
               "node_type": "item",
               "title": "Repo for Arduino Yun :fire:",
-              "description": null,
+              "description": "aws/aws-iot-device-sdk-arduino-yun",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -372,7 +372,7 @@
             {
               "node_type": "item",
               "title": "Repo for Arduino",
-              "description": null,
+              "description": "amazon-archives/aws-sdk-arduino",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -404,7 +404,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-sdk-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -430,7 +430,7 @@
             {
               "node_type": "item",
               "title": "Repo with Samples :fire::fire:",
-              "description": null,
+              "description": "aws-samples/aws-java-sample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -458,7 +458,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-sdk-js",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -471,7 +471,7 @@
                 "open_issues": 1,
                 "owner": "aws",
                 "repo": "aws-sdk-js",
-                "stars": 7600,
+                "stars": 7599,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -483,7 +483,7 @@
             {
               "node_type": "item",
               "title": "Repo with Samples :fire::fire:",
-              "description": null,
+              "description": "aws-samples/aws-nodejs-sample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -504,7 +504,7 @@
             {
               "node_type": "item",
               "title": "aws/aws-amplify :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws-amplify/amplify-js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -513,8 +513,8 @@
                 "id": 105590837,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T13:40:12Z",
-                "open_issues": 517,
+                "last_commit": "2026-10-03T00:21:36Z",
+                "open_issues": 518,
                 "owner": "aws-amplify",
                 "repo": "amplify-js",
                 "stars": 9554,
@@ -544,7 +544,7 @@
             {
               "node_type": "item",
               "title": "mirkokiefer/aws-lib :fire::fire::fire:",
-              "description": null,
+              "description": "mirkokiefer/aws-lib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -565,7 +565,7 @@
             {
               "node_type": "item",
               "title": "chilts/awssum :fire::fire:",
-              "description": null,
+              "description": "chilts/awssum",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -586,7 +586,7 @@
             {
               "node_type": "item",
               "title": "SaltwaterC/aws2js :fire::fire:",
-              "description": null,
+              "description": "SaltwaterC/aws2js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -614,7 +614,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire:",
-              "description": null,
+              "description": "brendanhay/amazonka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -638,7 +638,7 @@
             {
               "node_type": "item",
               "title": "aristidb/aws :fire::fire:",
-              "description": null,
+              "description": "aristidb/aws",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -666,7 +666,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire:",
-              "description": null,
+              "description": "pplu/aws-sdk-perl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -706,7 +706,7 @@
             {
               "node_type": "item",
               "title": "Repo with Samples :fire:",
-              "description": null,
+              "description": "pplu/aws-sdk-perl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -746,7 +746,7 @@
             {
               "node_type": "item",
               "title": "Install",
-              "description": null,
+              "description": "pplu/aws-sdk-perl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -793,7 +793,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-sdk-php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -802,7 +802,7 @@
                 "id": 6269013,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T18:24:07Z",
+                "last_commit": "2026-10-02T18:25:23Z",
                 "open_issues": 24,
                 "owner": "aws",
                 "repo": "aws-sdk-php",
@@ -814,7 +814,7 @@
             {
               "node_type": "item",
               "title": "Repo with Samples",
-              "description": null,
+              "description": "aws-samples/aws-php-sample",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -835,7 +835,7 @@
             {
               "node_type": "item",
               "title": "aws-sdk-php-laravel :fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-sdk-php-laravel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -856,7 +856,7 @@
             {
               "node_type": "item",
               "title": "aws-sdk-php-zf2 :fire:",
-              "description": null,
+              "description": "aws/aws-sdk-php-zf2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -877,7 +877,7 @@
             {
               "node_type": "item",
               "title": "aws-sdk-php-silex",
-              "description": null,
+              "description": "aws/aws-sdk-php-silex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -905,7 +905,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "boto/boto3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -914,11 +914,11 @@
                 "id": 24774658,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T19:29:09Z",
+                "last_commit": "2026-10-02T19:30:11Z",
                 "open_issues": 191,
                 "owner": "boto",
                 "repo": "boto3",
-                "stars": 9912,
+                "stars": 9911,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -932,7 +932,7 @@
             {
               "node_type": "item",
               "title": "Install",
-              "description": null,
+              "description": "boto/boto",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -953,7 +953,7 @@
             {
               "node_type": "item",
               "title": "Learn More",
-              "description": null,
+              "description": "boto/boto",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -974,7 +974,7 @@
             {
               "node_type": "item",
               "title": "Repo with Samples :fire:",
-              "description": null,
+              "description": "aws-samples/aws-python-sample",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -995,7 +995,7 @@
             {
               "node_type": "item",
               "title": "boto3 :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "boto/boto3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1004,11 +1004,11 @@
                 "id": 24774658,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T19:29:09Z",
+                "last_commit": "2026-10-02T19:30:11Z",
                 "open_issues": 191,
                 "owner": "boto",
                 "repo": "boto3",
-                "stars": 9912,
+                "stars": 9911,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -1022,7 +1022,7 @@
             {
               "node_type": "item",
               "title": "botocore :fire::fire::fire::fire:",
-              "description": null,
+              "description": "boto/botocore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1031,8 +1031,8 @@
                 "id": 6670942,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:14:11Z",
-                "open_issues": 193,
+                "last_commit": "2026-10-02T19:25:20Z",
+                "open_issues": 194,
                 "owner": "boto",
                 "repo": "botocore",
                 "stars": 1643,
@@ -1050,7 +1050,7 @@
             {
               "node_type": "item",
               "title": "Samples :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "awsdocs/aws-doc-sdk-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1060,7 +1060,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T10:52:59Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "awsdocs",
                 "repo": "aws-doc-sdk-examples",
                 "stars": 10462,
@@ -1084,7 +1084,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-sdk-ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,7 +1093,7 @@
                 "id": 2050163,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T04:57:42Z",
+                "last_commit": "2026-10-02T19:42:56Z",
                 "open_issues": 24,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
@@ -1110,7 +1110,7 @@
             {
               "node_type": "item",
               "title": "Repo with S3 Sample",
-              "description": null,
+              "description": "aws-samples/aws-ruby-sample",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1131,7 +1131,7 @@
             {
               "node_type": "item",
               "title": "aws-sdk-rails :fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-sdk-rails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1140,8 +1140,8 @@
                 "id": 32409894,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-19T16:47:36Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-02T23:30:21Z",
+                "open_issues": 4,
                 "owner": "aws",
                 "repo": "aws-sdk-rails",
                 "stars": 614,
@@ -1152,7 +1152,7 @@
             {
               "node_type": "item",
               "title": "rightscale/right_aws :fire::fire:",
-              "description": null,
+              "description": "flexera-public/right_aws",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1173,7 +1173,7 @@
             {
               "node_type": "item",
               "title": "appoxy/aws :fire::fire:",
-              "description": null,
+              "description": "appoxy/aws",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1201,7 +1201,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "rusoto/rusoto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1226,7 +1226,7 @@
             {
               "node_type": "item",
               "title": "Install",
-              "description": null,
+              "description": "rusoto/rusoto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1258,7 +1258,7 @@
             {
               "node_type": "item",
               "title": "amazon-archives/aws-scala-sdk",
-              "description": null,
+              "description": "amazon-archives/aws-scala-sdk",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1279,7 +1279,7 @@
             {
               "node_type": "item",
               "title": "seratch/AWScala :fire::fire::fire:",
-              "description": null,
+              "description": "seratch/AWScala",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1307,7 +1307,7 @@
             {
               "node_type": "item",
               "title": "Repo with Samples :fire:",
-              "description": null,
+              "description": "aws-samples/aws-sdk-unity-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1328,7 +1328,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire:",
-              "description": null,
+              "description": "amazon-archives/aws-sdk-unity",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1360,7 +1360,7 @@
             {
               "node_type": "item",
               "title": "amazon-archives/aws-sdk-xamarin",
-              "description": null,
+              "description": "amazon-archives/aws-sdk-xamarin",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1388,7 +1388,7 @@
             {
               "node_type": "item",
               "title": "Samples :fire:",
-              "description": null,
+              "description": "awslabs/aws-sdk-net-samples",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1409,7 +1409,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-sdk-net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1418,7 +1418,7 @@
                 "id": 3251639,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T21:25:44Z",
+                "last_commit": "2026-10-03T01:38:10Z",
                 "open_issues": 16,
                 "owner": "aws",
                 "repo": "aws-sdk-net",
@@ -1430,7 +1430,7 @@
             {
               "node_type": "item",
               "title": "Repo with Samples",
-              "description": null,
+              "description": "aws-samples/aws-auto-scaling-console-sample",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1464,7 +1464,7 @@
             {
               "node_type": "item",
               "title": "Repo :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "aws/aws-cli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1473,11 +1473,11 @@
                 "id": 6780767,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T16:06:11Z",
-                "open_issues": 754,
+                "last_commit": "2026-10-02T22:38:36Z",
+                "open_issues": 753,
                 "owner": "aws",
                 "repo": "aws-cli",
-                "stars": 17284,
+                "stars": 17287,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -1490,7 +1490,7 @@
             {
               "node_type": "item",
               "title": "awslabs/aws-shell :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "awslabs/aws-shell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1516,7 +1516,7 @@
             {
               "node_type": "item",
               "title": "donnemartin/saws :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "donnemartin/saws",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1627,48 +1627,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -1689,11 +1647,11 @@
                 "id": 6780767,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T16:06:11Z",
-                "open_issues": 754,
+                "last_commit": "2026-10-02T22:38:36Z",
+                "open_issues": 753,
                 "owner": "aws",
                 "repo": "aws-cli",
-                "stars": 17284,
+                "stars": 17287,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -1706,7 +1664,7 @@
             {
               "node_type": "item",
               "title": "aws-shell :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "awslabs/aws-shell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1846,7 +1804,7 @@
                 "open_issues": 2,
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8997,
+                "stars": 8996,
                 "topics": [
                   "aws",
                   "aws-vault",
@@ -1946,7 +1904,7 @@
                 "open_issues": 6,
                 "owner": "achiku",
                 "repo": "jungle",
-                "stars": 843,
+                "stars": 842,
                 "topics": [
                   "aws",
                   "cli",
@@ -2027,7 +1985,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T15:21:54Z",
-                "open_issues": 2867,
+                "open_issues": 2873,
                 "owner": "aws",
                 "repo": "aws-cdk",
                 "stars": 12921,
@@ -2266,7 +2224,7 @@
                 "open_issues": 24,
                 "owner": "envato",
                 "repo": "stack_master",
-                "stars": 294,
+                "stars": 293,
                 "topics": [
                   "aws",
                   "aws-cloudformation",
@@ -2426,48 +2384,6 @@
                 "repo": "cloudsearchable",
                 "stars": 51,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
             }
@@ -2752,48 +2668,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -2925,48 +2799,6 @@
                 "repo": "AWSCodePipeline-S3-AWSCodeDeploy_Windows",
                 "stars": 9,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
             }
@@ -3208,48 +3040,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -3360,48 +3150,6 @@
                 "repo": "aws-device-farm-calabash-tests-for-sample-app",
                 "stars": 8,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
             }
@@ -3634,7 +3382,7 @@
                 "id": 12163811,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T17:30:28Z",
+                "last_commit": "2026-10-02T21:12:33Z",
                 "open_issues": 0,
                 "owner": "aws",
                 "repo": "aws-sessionstore-dynamodb-ruby",
@@ -4172,48 +3920,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
               "title": "kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:",
               "description": "Bootstrap Kubernetes the hard way on EC2. No scripts.",
               "children": [],
@@ -4228,7 +3934,7 @@
                 "open_issues": 56,
                 "owner": "kelseyhightower",
                 "repo": "kubernetes-the-hard-way",
-                "stars": 50259,
+                "stars": 50272,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -4245,8 +3951,8 @@
                 "id": 64654523,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T00:58:29Z",
-                "open_issues": 37,
+                "last_commit": "2026-10-03T00:55:35Z",
+                "open_issues": 38,
                 "owner": "openebs",
                 "repo": "openebs",
                 "stars": 9826,
@@ -4812,48 +4518,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -5085,48 +4749,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -5188,7 +4810,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T21:36:52Z",
-                "open_issues": 337,
+                "open_issues": 338,
                 "owner": "awslabs",
                 "repo": "amazon-kinesis-client",
                 "stars": 668,
@@ -5542,48 +5164,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -5608,7 +5188,7 @@
                 "open_issues": 501,
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11052,
+                "stars": 11053,
                 "topics": [
                   "aws",
                   "aws-apigateway",
@@ -5636,7 +5216,7 @@
                 "id": 92205085,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:36:54Z",
+                "last_commit": "2026-10-02T21:04:57Z",
                 "open_issues": 545,
                 "owner": "aws",
                 "repo": "aws-sam-cli",
@@ -6031,7 +5611,7 @@
                 "open_issues": 65,
                 "owner": "jorgebastida",
                 "repo": "gordon",
-                "stars": 2026,
+                "stars": 2025,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -6328,7 +5908,7 @@
                 "open_issues": 7,
                 "owner": "kubek2k",
                 "repo": "lambdoku",
-                "stars": 567,
+                "stars": 565,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -6465,48 +6045,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -6533,48 +6071,6 @@
                 "repo": "aws-sdk-mobile-analytics-js",
                 "stars": 83,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
             }
@@ -6857,48 +6353,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -6961,11 +6415,11 @@
                 "id": 13926404,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-01T02:04:06Z",
+                "last_commit": "2026-10-02T19:49:12Z",
                 "open_issues": 812,
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28829,
+                "stars": 28830,
                 "topics": [
                   "analytics",
                   "athena",
@@ -7125,7 +6579,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61342,
+                "stars": 61341,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -7156,10 +6610,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-02T14:44:42Z",
-                "open_issues": 1304,
+                "open_issues": 1311,
                 "owner": "rclone",
                 "repo": "rclone",
-                "stars": 60067,
+                "stars": 60078,
                 "topics": [
                   "azure-blob",
                   "azure-blob-storage",
@@ -7197,11 +6651,11 @@
                 "id": 94173064,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T00:17:29Z",
+                "last_commit": "2026-10-02T17:41:49Z",
                 "open_issues": 127,
                 "owner": "mickael-kerjean",
                 "repo": "filestash",
-                "stars": 14755,
+                "stars": 14759,
                 "topics": [
                   "archiving",
                   "azure",
@@ -7242,7 +6696,7 @@
                 "open_issues": 315,
                 "owner": "s3fs-fuse",
                 "repo": "s3fs-fuse",
-                "stars": 10004,
+                "stars": 10005,
                 "topics": [
                   "aws-s3",
                   "cloud-storage",
@@ -7472,7 +6926,7 @@
                 "open_issues": 53,
                 "owner": "rlmcpherson",
                 "repo": "s3gof3r",
-                "stars": 1142,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -7969,48 +7423,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -8067,48 +7479,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
             }
           ],
           "description": "AWS Repos:\nCommunity Repos:",
@@ -8130,7 +7500,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-02T03:19:10Z",
-                "open_issues": 51,
+                "open_issues": 53,
                 "owner": "awslabs",
                 "repo": "amazon-sqs-java-messaging-lib",
                 "stars": 183,
@@ -8195,7 +7565,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T17:35:17Z",
-                "open_issues": 53,
+                "open_issues": 51,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4120,
@@ -8240,7 +7610,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29358,
+                "stars": 29359,
                 "topics": [
                   "aws",
                   "big-data",
@@ -8348,10 +7718,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T23:25:24Z",
-                "open_issues": 1771,
+                "open_issues": 1772,
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
-                "stars": 6080,
+                "stars": 6079,
                 "topics": [
                   "aws",
                   "azure",
@@ -8408,7 +7778,7 @@
                 "open_issues": 327,
                 "owner": "NixOS",
                 "repo": "nixops",
-                "stars": 2202,
+                "stars": 2204,
                 "topics": [
                   "aws",
                   "cloud",
@@ -8442,7 +7812,7 @@
                 "open_issues": 60,
                 "owner": "cloudavail",
                 "repo": "aws-missing-tools",
-                "stars": 1332,
+                "stars": 1331,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -8463,7 +7833,7 @@
                 "open_issues": 40,
                 "owner": "k1LoW",
                 "repo": "awspec",
-                "stars": 1175,
+                "stars": 1174,
                 "topics": [
                   "aws",
                   "rspec"
@@ -8518,8 +7888,8 @@
                 "id": 21287076,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T00:20:47Z",
-                "open_issues": 303,
+                "last_commit": "2026-10-02T22:21:17Z",
+                "open_issues": 299,
                 "owner": "aws",
                 "repo": "s2n-tls",
                 "stars": 4768,
@@ -8648,7 +8018,7 @@
                 "open_issues": 183,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 9050,
+                "stars": 9052,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -8843,7 +8213,7 @@
                 "open_issues": 0,
                 "owner": "nccgroup",
                 "repo": "Scout2",
-                "stars": 1719,
+                "stars": 1718,
                 "topics": [
                   "aws",
                   "security"
@@ -9461,7 +8831,7 @@
                 "open_issues": 34,
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17162,
+                "stars": 17163,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.663Z"
@@ -9520,8 +8890,8 @@
                 "id": 21436816,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:15:22Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-02T21:46:13Z",
+                "open_issues": 110,
                 "owner": "spinnaker",
                 "repo": "spinnaker",
                 "stars": 9798,
@@ -9545,8 +8915,8 @@
                 "id": 8277372,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:37:07Z",
-                "open_issues": 89,
+                "last_commit": "2026-10-03T02:56:49Z",
+                "open_issues": 88,
                 "owner": "getmoto",
                 "repo": "moto",
                 "stars": 8690,
@@ -9861,8 +9231,8 @@
                 "id": 42454540,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T16:14:01Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-02T16:48:52Z",
+                "open_issues": 35,
                 "owner": "convox",
                 "repo": "rack",
                 "stars": 1890,
@@ -10213,57 +9583,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
-            }
-          ],
-          "description": "AWS Guides:\nCommunity Guides:",
-          "node_type": "group",
-          "title": "Getting Started Guides"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Open Guide to AWS :fire::fire::fire::fire::fire:",
-              "description": null,
+              "description": "open-guides/og-aws",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10325,7 +9646,7 @@
             {
               "node_type": "item",
               "title": "A Curated List of Engineering Blogs",
-              "description": null,
+              "description": "kilimchoi/engineering-blogs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10338,7 +9659,7 @@
                 "open_issues": 151,
                 "owner": "kilimchoi",
                 "repo": "engineering-blogs",
-                "stars": 38728,
+                "stars": 38730,
                 "topics": [
                   "engineering-blogs",
                   "lists",
@@ -10353,111 +9674,13 @@
           "description": "AWS Blogs:\nCommunity Blogs:",
           "node_type": "group",
           "title": "Blogs"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
-            }
-          ],
-          "description": "AWS Pages:\nCommunity Pages:",
-          "node_type": "group",
-          "title": "Facebook Pages"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Contribute",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-                "homepage": null,
-                "id": 44104712,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
-                "owner": "donnemartin",
-                "repo": "awesome-aws",
-                "stars": 14166,
-                "topics": [
-                  "aws",
-                  "aws-cli",
-                  "aws-sdk",
-                  "cloud",
-                  "cloud-management",
-                  "cloudformation",
-                  "cloudwatch",
-                  "dynamodb",
-                  "ec2",
-                  "ecs",
-                  "elasticsearch",
-                  "iam",
-                  "kinesis",
-                  "lambda",
-                  "machine-learning",
-                  "rds",
-                  "redshift",
-                  "route53",
-                  "s3",
-                  "serverless"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.663Z"
-            }
-          ],
-          "description": "AWS Conferences:\nCommunity Conferences:",
-          "node_type": "group",
-          "title": "Conferences"
         }
       ],
       "title": "Social"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:36:59.096Z",
+    "last_updated": "2026-10-03T04:33:05.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
@@ -10469,7 +9692,7 @@
       "open_issues": 103,
       "owner": "donnemartin",
       "repo": "awesome-aws",
-      "stars": 14166,
+      "stars": 14165,
       "topics": [
         "aws",
         "aws-cli",
